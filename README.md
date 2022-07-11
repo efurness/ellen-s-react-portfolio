@@ -18,7 +18,7 @@ This Portfolio website is a project that is constantly updating with projects, r
 
 [Deployed Application] https://efurness.github.io/Ellen-sProfessionalPortfolio/ 
 
-[GitHub Repository] https://github.com/efurness/Ellen-sProfessionalPortfolio.git
+[GitHub Repository] (https://github.com/efurness/ellen-s-react-portfolio.git)
 
 [Portfolio mp4](https://drive.google.com/file/d/1RFaw2TwS3s18Et8j2Kx_RKpeCS0xLQnV/view)
 
