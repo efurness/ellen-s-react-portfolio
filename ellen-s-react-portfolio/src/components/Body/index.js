@@ -6,7 +6,7 @@ function Body() {
     <div class="container px-4 px-lg-5">
 
         <div class="row gx-4 gx-lg-5 align-items-center my-5">
-            <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="assets/images/portfolio_photo.png"
+            <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + 'portfolio_photo.png'}
                     alt="portfolio_photo" /></div>
             <div class="col-lg-5">
                 
@@ -53,7 +53,7 @@ function Body() {
             </div>
             <div class="col-md-4 mb-5">
                 <div class="card">
-                    <img src="assets/images/peaks.png" class="card-img-top" alt="Indian peaks " />
+                <img src={process.env.PUBLIC_URL + 'peaks.png'} class="card-img-top" alt="Indian peaks" />
                     <div class="card-body">
                         <h5 class="card-title">Colorado</h5>
                         <p class="card-text">I love hiking with my English Retriever dog, where you will find in the link below. I also love cycling, snowshoeing, and skiing.</p>
@@ -101,7 +101,6 @@ function Body() {
                         <h3>My resume</h3>
                         <p class="lead mb-0"><a href="EDF_Resume_2022.pdf">Resume</a></p>
                         <p class="lead mb-0"><a href="https://www.linkedin.com/in/e-d-8b9415241/">LinkedIn</a></p>
-                        <a href="https://cites.org/eng/news/countdown-world-wildlife-conference"><img src="assets/images/cities2.png" class="card-img" alt="Cites Confernce" /></a>
 
                     </div>
                 </div>

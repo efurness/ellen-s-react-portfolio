@@ -1,11 +1,10 @@
 function Nav() {
     return (
         <div class="card bg-dark text-white">
-        <img src="./public/assateague.png" class="card-img" alt="Assateague Island" />
+        <img src={process.env.PUBLIC_URL + 'assateague.png'} class="card-img" alt="Assateague Island" />
         <div class="card-img-overlay">
             <h5> WELCOME TO MY PORFOLIO</h5>
-        </div>
-        <div class="navLink">
+            <div class="navLink">
                     <ul>
                         <li><a href="#intro">About Me</a></li>
                         <li><a href="#profession">Profession</a></li>
@@ -14,6 +13,8 @@ function Nav() {
                     </ul>
              
                 </div>
+        </div>
+        
                 </div>
     )
 }

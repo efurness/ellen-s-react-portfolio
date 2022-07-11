@@ -27,7 +27,7 @@ This Portfolio website is a project that is constantly updating with projects, r
 
 ## INSTALLATION 
 
-VS CODE, HTML, CSS, JAVASCRIPT, PHOTOSCAPEX, BOOTSTRAP, MATERIALIZE
+REACT, NPM, VS CODE, HTML, CSS, JAVASCRIPT, PHOTOSCAPEX, BOOTSTRAP, MATERIALIZE
 
 ## LICENSE 
 
