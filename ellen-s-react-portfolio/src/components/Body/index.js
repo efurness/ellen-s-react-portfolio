@@ -1,12 +1,7 @@
 function Body() {
     return (
         <body>
-    <div class="card bg-dark text-white">
-        <img src="./public/assateague.png" class="card-img" alt="Assateague Island"/>
-        <div class="card-img-overlay">
-            <h5> WELCOME TO MY PORFOLIO</h5>
-        </div>
-      </div>
+    
    
     <div class="container px-4 px-lg-5">
 
@@ -14,15 +9,7 @@ function Body() {
             <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="assets/images/portfolio_photo.png"
                     alt="portfolio_photo" /></div>
             <div class="col-lg-5">
-                <div class="navLink">
-                    <ul>
-                        <li><a href="#intro">About Me</a></li>
-                        <li><a href="#profession">Profession</a></li>
-                        <li> <a href="#projects">Projects/Resume</a></li>
-    
-                    </ul>
-             
-                </div>
+                
                 <h6 id="DarkModetext">Dark Mode is OFF</h6>
                 <button onclick="darkMode()">DarkMode</button>
                 <button onclick="lightMode()">LightMode</button>
