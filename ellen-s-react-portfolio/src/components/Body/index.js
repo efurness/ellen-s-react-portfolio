@@ -99,8 +99,10 @@ function Body() {
                     <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                         <div class="features-icons-icon d-flex"><i class="bi-layers m-auto text-primary"></i></div>
                         <h3>My resume</h3>
-                        <p class="lead mb-0"><a href="EDF_Resume_2022.pdf">Resume</a></p>
+                        <p class="lead mb-0"><a href="https://efurness.github.io/Ellen-sProfessionalPortfolio/Furness_Resume_2022.pdf">Resume</a></p>
+                        <p class="lead mb-0"><a href="Furness_Resume_2022.pdf" target="blank">Resume</a></p>
                         <p class="lead mb-0"><a href="https://www.linkedin.com/in/e-d-8b9415241/">LinkedIn</a></p>
+                        <a href="https://cites.org/eng/news/countdown-world-wildlife-conference"><img src="assets/images/cities2.png" class="card-img" alt="Cites Confernce" /></a>
 
                     </div>
                 </div>
