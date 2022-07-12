@@ -62,6 +62,7 @@ text-align: right;
 /* The navigation links are positioned relative and displayed flex and aligned center. */
 .navLink {
   position: relative;
+
   width: 50%;
   height: 100%;
   display: flex;

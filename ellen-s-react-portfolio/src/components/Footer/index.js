@@ -10,7 +10,7 @@ function Footer() {
                         <li class="list-inline-item">⋅</li>
                         <li class="list-inline-item"><a href="mailto:Ellen.Furness@du.edu">Contact</a></li>
                         <li class="list-inline-item">⋅</li>
-                        <li class="list-inline-item"><a href="photo.html">My Photos</a></li>
+                        <li class="list-inline-item"><a href="https://efurness.github.io/Ellen-sProfessionalPortfolio/photo.html">My Photos</a></li>
 
                     </ul>
 
