@@ -62,7 +62,6 @@ text-align: right;
 /* The navigation links are positioned relative and displayed flex and aligned center. */
 .navLink {
   position: relative;
-
   width: 50%;
   height: 100%;
   display: flex;
@@ -144,6 +143,14 @@ container {
 }
 .card {
 background-color: cadetblue;
+}
+.card2 {
+  background-color: blue;
+  color:deeppink;
+}
+
+.lead mb-0  a {
+  color:deeppink;
 }
 
 .btn btn-primary {

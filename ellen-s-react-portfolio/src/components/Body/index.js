@@ -77,13 +77,13 @@ function Body() {
             </div>
         </div>
     </div>
-    <section class="features-icons bg-light text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
-                        <div class="features-icons-icon d-flex"><i class="bi-window m-auto text-primary"></i></div>
-                        <h3 id="projects">BOOTCAMP PROJECTS</h3>
+    
+    <div class="row gx-4 gx-lg-5">
+            <div class="col-md-4 mb-5">
+                
+                <div class="card2">
+                    <div class="card-body">
+                        <h5 class="card-title">BOOTCAMP PROJECTS</h5>
                         <p class="lead mb-0"><a href="https://github.com/AuraFly/Fit_With_Friends.git">Project 2 - Fitness with Friends
                             </a></p>
                             <p class="lead mb-0"><a href="https://fitwithfriends-app.herokuapp.com/">Project 2 - Heroku
@@ -92,24 +92,23 @@ function Body() {
                                 </a></p>
                         <p class="lead mb-0"><a href="https://jgault87.github.io/city-scapes/">Project 1 - City Scapes landing
                                 page</a></p>
-                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
-                        <div class="features-icons-icon d-flex"><i class="bi-layers m-auto text-primary"></i></div>
-                        <h3>My resume</h3>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="card2">
+                    <div class="card-body">
+                        <h5 class="card-title">Resume-LinkedIn</h5>
                         <p class="lead mb-0"><a href="https://efurness.github.io/Ellen-sProfessionalPortfolio/Furness_Resume_2022.pdf">Resume</a></p>
                         <p class="lead mb-0"><a href="Furness_Resume_2022.pdf" target="blank">Resume</a></p>
                         <p class="lead mb-0"><a href="https://www.linkedin.com/in/e-d-8b9415241/">LinkedIn</a></p>
-
                     </div>
                 </div>
-                
-                <div class="col-lg-4">
-                    <div class="features-icons-item mx-auto mb-0 mb-lg-3">
-                        <div class="features-icons-icon d-flex"><i class="bi-terminal m-auto text-primary"></i></div>
-                        <h3>BOOTCAMP Weather and Team Profile Generator APPs </h3>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="card2">
+                    <div class="card-body">
+                        <h5 class="card-title">GITHUB Projects</h5>
                         <p class="lead mb-0"><a href="https://github.com/efurness/Team-Profile-Generator.git"> Team Profile Generator - GitHub</a></p>                     
                         <p class="lead mb-0"><a href="https://github.com/efurness/note-taker-interface.git">Note Taker Interface - GitHub</a></p>
                         <p class="lead mb-0"><a href="https://pure-crag-28667.herokuapp.com/">Note Taker - Heroku</a></p>
@@ -117,12 +116,10 @@ function Body() {
                             <p class="lead mb-0"><a href="https://github.com/efurness/Unit-6-weather-dashboard.git">Weather Dashboard - GitHub</a></p>
                             <p class="lead mb-0"><a href="https://efurness.github.io/Unit5-Work-Day-Scheduler/">Work Day Schedular - Deployed</a></p>
                             <p class="lead mb-0"><a href="https://github.com/efurness/Unit5-Work-Day-Scheduler.git">Work Day Scheduler - GitHub</a></p>
-
                     </div>
                 </div>
-                
-        </div>
-    </section>
+                </div>
+                </div>
     
     
     
