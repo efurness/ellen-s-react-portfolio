@@ -24,12 +24,8 @@ function Body() {
                     alt="portfolio_photo" /></div>
             <div class="col-lg-5">
                 
-                {/* <h6 id="DarkModetext">Dark Mode is OFF</h6>
-                <button onClick="darkMode()">DarkMode</button>
-                <button onClick="lightMode()">LightMode</button>
-                <h2 class="font-weight-light" id="intro">Ellen D. Furness</h2> */}
 
-                <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5>
+                <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5> 
                 
                 <br />
                 <a class="btn btn-primary" href="https://www.linkedin.com/in/e-d-8b9415241/">Linked-In</a> 
