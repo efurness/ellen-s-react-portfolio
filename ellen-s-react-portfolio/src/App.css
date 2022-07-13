@@ -192,14 +192,14 @@ footer {
   font-size:x-large;
   font-weight: bolder;
 }
-.dark-mode {
+/* .dark-mode {
   background-color: black;
   color: white;
 }
 .light-mode {
   background-color: white;
   color: black;
-}
+} */
 body {
   
   background-color: white;
@@ -209,6 +209,14 @@ body {
 
 .App {
   text-align: center;
+}
+
+#light {
+  background-color: white;
+}
+
+#dark {
+  background-color: black;
 }
 
 .App-logo {
@@ -234,7 +242,7 @@ body {
 }
 
 .App-link {
-  color: #61dafb;
+  color: #055aee;
 }
 
 @keyframes App-logo-spin {

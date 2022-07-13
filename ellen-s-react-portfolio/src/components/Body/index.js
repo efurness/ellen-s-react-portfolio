@@ -1,4 +1,18 @@
 function Body() {
+    // eslint-disable-next-line
+    function darkMode() {
+        var element = document.body;
+        var content = document.getElementById("DarkModetext");
+        element.className = "dark-mode";
+        content.innerText = "Dark Mode is ON";
+      }
+// eslint-disable-next-line        
+        function lightMode() {
+        var element = document.body;
+        var content = document.getElementById("DarkModetext");
+        element.className = "light-mode";
+        content.innerText = "Dark Mode is OFF";
+      }
     return (
         <body>
     
@@ -11,8 +25,8 @@ function Body() {
             <div class="col-lg-5">
                 
                 <h6 id="DarkModetext">Dark Mode is OFF</h6>
-                <button onclick="darkMode()">DarkMode</button>
-                <button onclick="lightMode()">LightMode</button>
+                <button onClick="darkMode()">DarkMode</button>
+                <button onClick="lightMode()">LightMode</button>
                 <h2 class="font-weight-light" id="intro">Ellen D. Furness</h2>
 
                 <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5>
