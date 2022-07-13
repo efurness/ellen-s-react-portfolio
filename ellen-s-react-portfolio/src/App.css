@@ -211,14 +211,29 @@ body {
   text-align: center;
 }
 
-#light {
+#light header {
   background-color: white;
 }
 
-#dark {
+#dark header {
   background-color: black;
 }
 
+#light body {
+  background-color: white;
+}
+
+#dark body {
+  background-color: black;
+}
+
+#light footer {
+  background-color: white;
+}
+
+#dark header {
+  background-color: black;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -229,6 +244,28 @@ body {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+.switch {
+  display: flex;
+  width: 100vw;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.switch label {
+  margin: 10px;
+}
+
+#light .switch label {
+  color:rgb(10, 10, 228);
+}
+
+#dark .switch label {
+  color: white;
+}
+
 
 .App-header {
   background-color: #282c34;
