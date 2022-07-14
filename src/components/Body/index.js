@@ -1,23 +1,20 @@
 function Body() {
-//     // eslint-disable-next-line
-//     function darkMode() {
-//         var element = document.body;
-//         var content = document.getElementById("DarkModetext");
-//         element.className = "dark-mode";
-//         content.innerText = "Dark Mode is ON";
-//       }
-// // eslint-disable-next-line        
-//         function lightMode() {
-//         var element = document.body;
-//         var content = document.getElementById("DarkModetext");
-//         element.className = "light-mode";
-//         content.innerText = "Dark Mode is OFF";
-    //   }
+
     return (
         <body>
+            
     
    
     <div class="container px-4 px-lg-5">
+    <div class="navLink">
+                    <ul>
+                        <li><a href="#intro">About Me</a></li>
+                        <li><a href="#profession">Profession</a></li>
+                        <li> <a href="#projects">Projects/Resume</a></li>
+    
+                    </ul>
+             
+                </div>
 
         <div class="row gx-4 gx-lg-5 align-items-center my-5">
             <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + 'portfolio_photo.png'}
@@ -28,7 +25,7 @@ function Body() {
                 <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5> 
                 
                 <br />
-                <a class="btn btn-primary" href="https://www.linkedin.com/in/e-d-8b9415241/">Linked-In</a> 
+                <a class="btn btn-primary" id="intro" href="https://www.linkedin.com/in/e-d-8b9415241/">Linked-In</a> 
             </div>
         </div>
         <div class="card text-white bg-secondary my-5 py-4 text-center">
@@ -94,7 +91,7 @@ function Body() {
                 <div class="card2">
                     <div class="card-body">
                         <h5 class="card-title">BOOTCAMP PROJECTS</h5>
-                        <p class="lead mb-0"><a href="https://github.com/AuraFly/Fit_With_Friends.git">Project 2 - Fitness with Friends
+                        <p class="lead mb-0" id="projects"><a href="https://github.com/AuraFly/Fit_With_Friends.git">Project 2 - Fitness with Friends
                             </a></p>
                             <p class="lead mb-0"><a href="https://fitwithfriends-app.herokuapp.com/">Project 2 - Heroku
                                 </a></p>
