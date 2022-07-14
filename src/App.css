@@ -1,4 +1,5 @@
 
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -88,7 +89,7 @@ text-align: right;
 }
 
 .navLink ul li a:hover {
-  color: rgb(14, 171, 233);
+  color: rgb(43, 14, 233);
 }
 
 .lead mb-0 {

@@ -8,7 +8,7 @@ function Body() {
     <div class="container px-4 px-lg-5">
     <div class="navLink">
                     <ul>
-                        <li><a href="#intro">About Me</a></li>
+                        <li><a href="#intro">About</a></li>
                         <li><a href="#profession">Profession</a></li>
                         <li> <a href="#projects">Projects/Resume</a></li>
     
