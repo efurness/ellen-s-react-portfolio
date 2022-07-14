@@ -2,6 +2,7 @@ import './App.css';
 import Body from './components/Body';
 import Footer from './components/Footer';
 import Nav from './components/Nav';
+// import Nav from './components/Nav';
 // eslint-disable-next-line
 import { createContext, useState } from 'react';
 import ReactSwitch from 'react-switch';
@@ -22,6 +23,7 @@ function App() {
       <lable> {theme === 'light' ? 'Light Mode' : 'Dark Mode'}</lable>
     <ReactSwitch onChange={toggleTheme} checked={theme === 'light'} />
     </div>
+    {/* <Nav /> */}
     <Nav />
     
     <Body />,

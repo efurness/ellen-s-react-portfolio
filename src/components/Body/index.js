@@ -106,7 +106,6 @@ function Body() {
                 <div class="card2">
                     <div class="card-body">
                         <h5 class="card-title">Resume-LinkedIn</h5>
-                        <p class="lead mb-0"><a href="https://efurness.github.io/Ellen-sProfessionalPortfolio/Furness_Resume_2022.pdf">Resume</a></p>
                         <p class="lead mb-0"><a href="Furness_Resume_2022.pdf" target="blank">Resume</a></p>
                         <p class="lead mb-0"><a href="https://www.linkedin.com/in/e-d-8b9415241/">LinkedIn</a></p>
                     </div>
