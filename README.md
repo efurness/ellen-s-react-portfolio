@@ -15,13 +15,15 @@ This Portfolio website is a project that is constantly updating with projects, r
 
 ## DEPLOYED TO -->
 
-[Deployed Application] https://efurness.github.io/Ellen-sProfessionalPortfolio/
+[Deployed Application] (https://delicate-melomakarona-6c48d4.netlify.app/)
 
 [GitHub Repository] (https://github.com/efurness/ellen-s-react-portfolio.git)
 
 [REACT Portfolio video](https://drive.google.com/file/d/1dWyfrQvtHlgyDWi9JqT5U813IYLFtbkY/view) 
 
 [Weather Dashboard](assets/images/weather.png) 
+
+[Note Taker App] (https://pure-crag-28667.herokuapp.com/)
 
 
 ## INSTALLATION 
