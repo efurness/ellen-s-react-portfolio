@@ -19,7 +19,7 @@ This Portfolio website is a project that is constantly updating with projects, r
 
 [GitHub Repository] (https://github.com/efurness/ellen-s-react-portfolio.git)
 
-[Portfolio mp4](https://drive.google.com/file/d/1RFaw2TwS3s18Et8j2Kx_RKpeCS0xLQnV/view)  -->
+[REACT Portfolio video](https://drive.google.com/file/d/1dWyfrQvtHlgyDWi9JqT5U813IYLFtbkY/view) 
 
 [Weather Dashboard](assets/images/weather.png) 
 
