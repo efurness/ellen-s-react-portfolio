@@ -16,7 +16,7 @@ function Body() {
              
                 </div>
 
-        <div class="row gx-4 gx-lg-5 align-items-center my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center my-5" id="intro">
             <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + 'portfolio_photo.png'}
                     alt="portfolio_photo" /></div>
             <div class="col-lg-5">
@@ -25,7 +25,7 @@ function Body() {
                 <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5> 
                 
                 <br />
-                <a class="btn btn-primary" id="intro" href="https://www.linkedin.com/in/e-d-8b9415241/">Linked-In</a> 
+                <a class="btn btn-primary" href="https://www.linkedin.com/in/e-d-8b9415241/">Linked-In</a> 
             </div>
         </div>
         <div class="card text-white bg-secondary my-5 py-4 text-center">
