@@ -15,7 +15,9 @@ This Portfolio website is a project that is constantly updating with projects, r
 
 ## DEPLOYED TO -->
 
-[Deployed Application] (https://delicate-melomakarona-6c48d4.netlify.app/)
+[Deployed Application] (https://efurness.github.io/ellen-s-react-portfolio/)
+
+[Deployed Application Netlify] (https://delicate-melomakarona-6c48d4.netlify.app/)
 
 [GitHub Repository] (https://github.com/efurness/ellen-s-react-portfolio.git)
 
