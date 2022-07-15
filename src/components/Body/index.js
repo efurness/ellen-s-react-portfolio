@@ -6,17 +6,7 @@ function Body() {
     
    
     <div class="container px-4 px-lg-5">
-    <div class="navLink">
-                    <ul>
-                        <li><a href="#intro">About</a></li>
-                        <li><a href="#profession">Profession</a></li>
-                        <li> <a href="#projects">Projects/Resume</a></li>
-                        <li> <a href="#contact">Contact</a></li>
-
     
-                    </ul>
-             
-                </div>
 
         <div class="row gx-4 gx-lg-5 align-items-center my-5" id="intro">
             <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/portfolio_photo.png'}
@@ -33,7 +23,7 @@ function Body() {
         <div class="card text-white bg-secondary my-5 py-4 text-center">
             <div class="card-body">
                 <p class="text-white m-0">
-                <p class="lead mb-0" id="profession">The non-profit Conservation Treaty Support Fund 
+                <p class="lead mb-0">The non-profit Conservation Treaty Support Fund 
                     <a href="https://www.prweb.com/releases/2007/02/prweb502845.htm">CTSF</a>, supported the <a href="https://cites.org/eng">Convention
                     of the International Trade in Endangered Species of Wild Fauna and Flora</a> with partners
                     <a href="https://worldwildlife.org">World Wildlife Fund</a>, and <a href="https://traffic.org">TRAFFIC</a> in this pursuit, contributing to protecting species like
@@ -54,7 +44,6 @@ function Body() {
                               During that time, I partnered with DU and the National Park Service.
                             My continuing education had included GIS courses at CU.  Here is one of my
                             GIS mapping projects; beetle kill damage as in relation to the three-toed woodpecker' habitat.
-                            <a href="assets/images/ATTW_hillshade.png" alt="GIS hillshade photo">Hillshade image </a>.
                         </p>
                         <a href="pdf" class="btn btn-primary">GIS project</a>
                     </div>
@@ -70,7 +59,7 @@ function Body() {
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-5">
+            <div class="col-md-4 mb-5" id="profession">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Profession</h5>
