@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const ContactForm = () => {
+const Contact = () => {
   const [status, setStatus] = useState("Submit");
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -22,8 +22,10 @@ const ContactForm = () => {
     let result = await response.json();
     alert(result.status);
   };
+  
   return (
     <div>
+      <h5>Please Send Me a Message</h5>
           <form onSubmit={handleSubmit}>
 
       <div class="row mb-3">
@@ -52,4 +54,4 @@ const ContactForm = () => {
   );
 };
 
-export default ContactForm;
+export default Contact;

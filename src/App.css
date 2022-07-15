@@ -194,6 +194,17 @@ footer {
   font-weight: bolder;
   justify-content: center;
 }
+
+.form {
+  margin: 100px;
+}
+
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 50px;
+}
 /* .dark-mode {
   background-color: black;
   color: white;
@@ -205,7 +216,7 @@ footer {
 body {
   
   background-color: white;
-  color: rgb(56, 12, 187);
+  color: rgb(31, 31, 168);
   
 }
 
