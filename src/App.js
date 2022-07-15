@@ -2,6 +2,7 @@ import './App.css';
 import Body from './components/Body';
 import Footer from './components/Footer';
 import Nav from './components/Nav';
+import Contact from './components/Contact';
 
 // eslint-disable-next-line
 import { createContext, useState } from 'react';
@@ -25,7 +26,8 @@ function App() {
     </div>
     <Nav />
     <Body />,
-    <Footer />
+    <Footer />,
+    <Contact />,
     </div>
     </ThemeContext.Provider>
   );
