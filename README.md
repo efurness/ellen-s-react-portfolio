@@ -2,7 +2,7 @@
 
 ### Description 
 
-This Portfolio website is a project that is constantly updating with projects, resume and superb homework.  REACT was implemented with REACT-CREATE-APP.  I specifically used the Switch React and a Toggle to enable Dark Mode which was a little more complex with React compared with the JavaScript in the original portfolio.  I created Body, Nav and Footer components and incorporated my original Css into App.css and imported the links BOOTSTRAP and Materialize into the main index.js. HTML, CSS were utilized for the design of the webpage and structuring them to operate with my education and professional experience with links to my conservation work.  It was important to lead the user for a new experience of my pursuits and passions.  The layout is a mobile responsive experience with cards that sequence down the page; with my projects, resume and class assignments following in synchronous way.  I choose keeping the header Assateaugue image of horses because it compliments the rest of the webpage, draws the audience in as the start of a story of my background and goals. JavaScript was used to create the DarkMode with help from Geeks for Geeks.
+This Portfolio website involves continuous updates with projects, resume and superb homework.  REACT was implemented using REACT-CREATE-APP.  I specifically used the Switch REACT and a Toggle to enable Dark Mode which was a little more complex with React compared with the JavaScript in the original portfolio.  I created Body, Nav, Footer and Form components and incorporated my original Css into App.css and imported the links BOOTSTRAP and Materialize into the main index.js. HTML, CSS were utilized for the design of the webpage and structuring them to operate with my education and professional experience with links to my conservation work.  It was important to lead the user for a new experience of my pursuits and passions.  The layout is a mobile responsive experience with cards that sequence down the page; with my projects, resume and class assignments following in synchronous way.  I choose keeping the header Assateaugue image of horses because it compliments the rest of the webpage, drawing the audience in as the start of a story of my background and goals.  
 
 ## TABLE OF CONTENTS 
 
@@ -16,8 +16,6 @@ This Portfolio website is a project that is constantly updating with projects, r
 ## DEPLOYED TO -->
 
 [Deployed Application] (https://efurness.github.io/ellen-s-react-portfolio/)
-
-[Deployed Application Netlify] (https://delicate-melomakarona-6c48d4.netlify.app/)
 
 [GitHub Repository] (https://github.com/efurness/ellen-s-react-portfolio.git)
 
