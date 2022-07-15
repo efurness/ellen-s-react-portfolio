@@ -1,54 +1,87 @@
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
+import {validateEmail} from '../utils/helpers.js';
 
-function Form() {
-  // Here we set two state variables for firstName and lastName using `useState`
-  const [firstName, setFirstName] = useState('');
-  const [lastName, setLastName] = useState('');
 
-  const handleInputChange = (e) => {
-    // Getting the value and name of the input which triggered the change
-    const { name, value } = e.target;
 
-    // Ternary statement that will call either setFirstName or setLastName based on what field the user is typing in
-    return name === 'firstName' ? setFirstName(value) : setLastName(value);
+
+const Form = () => {
+  const form = useRef();
+
+ 
+
+  const[errorMessage, setErrorMessage] = useState("");
+
+  
+  
+
+  const handleChange = (e) => {
+    if (e.target.name === 'email') {
+      const isValid = validateEmail(e.target.value);
+      if (!isValid) {
+        setErrorMessage('Your email is invalid.');
+      } else {
+        setErrorMessage('');
+      }
+    } else {
+      if (!e.target.value.length) {
+        setErrorMessage(`${e.target.name} is required.`);
+      } else {
+        setErrorMessage('');
+      }
+    }
+    
   };
 
-  const handleFormSubmit = (e) => {
-    // Preventing the default behavior of the form submit (which is to refresh the page)
-    e.preventDefault();
 
-    // Alert the user their first and last name, clear the inputs
-    alert(`Hello ${firstName} ${lastName}`);
-    setFirstName('');
-    setLastName('');
-  };
+  
 
   return (
-    <div>
-      <p>
-        Hello {firstName} {lastName}
-      </p>
-      <form className="form">
-        <input
-          value={firstName}
-          name="firstName"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="First Name"
-        />
-        <input
-          value={lastName}
-          name="lastName"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="Last Name"
-        />
-        <button type="button" onClick={handleFormSubmit}>
-          Submit
-        </button>
-      </form>
-    </div>
+      
+    <section id='contact'> 
+          <h5>Please Send Me a Message</h5>
+     
+      <div className='container contact__container'>
+        <div className='contact__options'>
+         
+          <article className='contact__option'>
+            
+          </article>
+        </div>
+        <form ref={form} onSubmit>
+          <input
+            type='text'
+            name='name'
+            placeholder='Your Full Name'
+            onBlur={handleChange}
+            required
+          />
+          <input
+           type='email' 
+           name='email' 
+           placeholder='Your Email'          
+           onBlur={handleChange}
+           required />
+          <textarea 
+           name='message' 
+           rows='7'        
+           onBlur={handleChange}
+           placeholder='Your Message'
+           required />
+            
+          
+          {errorMessage && (
+          <div>
+            <p >{errorMessage}</p>
+          </div>
+        )}
+          
+          <button type='submit' className='btn btn-primary'>
+            Send Message
+          </button>
+        </form>
+      </div>
+    </section>
   );
-}
+};
 
 export default Form;
