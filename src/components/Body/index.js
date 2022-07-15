@@ -11,6 +11,8 @@ function Body() {
                         <li><a href="#intro">About</a></li>
                         <li><a href="#profession">Profession</a></li>
                         <li> <a href="#projects">Projects/Resume</a></li>
+                        <li> <a href="#contact">Contact</a></li>
+
     
                     </ul>
              
@@ -111,7 +113,7 @@ function Body() {
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-5">
+            <div class="col-md-4 mb-5" id="contact">
                 <div class="card2">
                     <div class="card-body">
                         <h5 class="card-title">GITHUB Projects</h5>

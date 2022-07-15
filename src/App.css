@@ -92,8 +92,8 @@ text-align: right;
   color: rgb(43, 14, 233);
 }
 
-.lead mb-0 {
-color: cadetblue;
+.lead mb-0 a:hover {
+color: white;
 }
 
 h2 {
