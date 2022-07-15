@@ -79,6 +79,8 @@ const Form = () => {
             Send Message
           </button>
         </form>
+        <br />
+        <br />
       </div>
     </section>
   );
