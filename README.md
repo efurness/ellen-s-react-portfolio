@@ -7,7 +7,6 @@ This Portfolio website involves continuous updates with projects, resume and sup
 ## TABLE OF CONTENTS 
 
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
   - [Deployed To ](#deployed-to)
@@ -52,9 +51,9 @@ Solo Project, Contributors welcome
 
 ## Contact
 
-<!-- * For additional help or questions about collaboration, please reach out to [Ellen.Furness@du.edu] -->
+For additional help or questions about collaboration, please reach out to [Ellen.Furness@du.edu] 
 
-<!-- * Follow me on Github at [efurness](http://github.com/efurness) -->
+Follow me on Github at [efurness](http://github.com/efurness)
 
 ## Acknowledgments
 
