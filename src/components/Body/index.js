@@ -42,7 +42,9 @@ function Body() {
                             My continuing education had included GIS courses at CU.  Here is one of my
                             GIS mapping projects; beetle kill damage as in relation to the three-toed woodpecker' habitat.
                         </p>
-                        <a href="pdf" class="btn btn-primary">GIS project</a>
+                        <a href='https://efurness.github.io/Ellen-sProfessionalPortfolio/GIS2.pdf' class="btn btn-primary" >GIS Project</a>
+          
+
                     </div>
                 </div>
             </div>
