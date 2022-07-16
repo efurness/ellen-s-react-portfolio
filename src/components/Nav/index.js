@@ -12,8 +12,7 @@ function Nav() {
         <nav class="navbar navbar-dark fixed-top bg-dark">
         <div>
         <ul>
-
-                        <li><a href="#profession">Profession</a></li>
+        <li>MY PORTFOLIO</li>
                         <li> <a href="#projects">Projects/Resume</a></li>
                         <li> <a href="#contact">Contact</a></li>
 
