@@ -104,7 +104,7 @@ function Body() {
             <div class="col-md-4 mb-5" id="contact">
                 <div class="card2">
                     <div class="card-body">
-                        <h5 class="card-title">GITHUB Projects</h5>
+                        <h5 class="card-title">GITHUB Challenges</h5>
                         <p class="lead mb-0"><a href="https://github.com/efurness/Team-Profile-Generator.git"> Team Profile Generator - GitHub</a></p>                     
                         <p class="lead mb-0"><a href="https://github.com/efurness/note-taker-interface.git">Note Taker Interface - GitHub</a></p>
                         <p class="lead mb-0"><a href="https://pure-crag-28667.herokuapp.com/">Note Taker - Heroku</a></p>
