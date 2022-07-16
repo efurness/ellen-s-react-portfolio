@@ -6,7 +6,7 @@ function Nav() {
             <h5> WELCOME TO MY PORFOLIO</h5>
             
         </div>
-        <nav class="navbar navbar-dark bg-dark">
+        <nav class="navbar navbar-dark fixed-top bg-dark">
         <div>
         <ul>
 

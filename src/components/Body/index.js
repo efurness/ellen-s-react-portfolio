@@ -2,9 +2,6 @@ function Body() {
 
     return (
         <body>
-            
-    
-   
     <div class="container px-4 px-lg-5">
     
 

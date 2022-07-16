@@ -18,12 +18,13 @@ function App() {
   };
   return (
     <ThemeContext.Provider value={{ theme, toggleTheme}}>
+    
+    <Nav />
     <div className='App' id={theme}>
     <div className='switch'>
       <lable> {theme === 'light' ? 'Light Mode' : 'Dark Mode'}</lable>
     <ReactSwitch onChange={toggleTheme} checked={theme === 'light'} />
     </div>
-    <Nav />
     <Body />,
     <Footer />,
     <Form />
