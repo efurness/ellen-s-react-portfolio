@@ -19,7 +19,7 @@ This Portfolio website involves continuous updates with projects, resume and sup
 
 [GitHub Repository] (https://github.com/efurness/ellen-s-react-portfolio.git)
 
-[REACT Portfolio video](https://drive.google.com/file/d/1dWyfrQvtHlgyDWi9JqT5U813IYLFtbkY/view) 
+[REACT Portfolio video](https://drive.google.com/file/d/1liT3HqmMf0d80cbPE2mo1DH5v5gsT30y/view) 
 
 [Weather Dashboard](assets/images/weather.png) 
 
