@@ -5,7 +5,7 @@ function Nav() {
         <div class="card bg-dark text-white">
          
         <img src={process.env.PUBLIC_URL + '/assateague.png'} class="card-img" alt="Assateague Island" />
-        <h5> WELCOME TO MY PORFOLIO</h5>
+        <h5> WELCOME TO MY PORTFOLIO</h5>
 
         <div class="card-img-overlay">
             
