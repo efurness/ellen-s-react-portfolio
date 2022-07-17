@@ -92,7 +92,14 @@ text-align: right;
 }
 
 .lead mb-0 a:hover {
-color: white;
+  color: white;
+  font-weight: bolder;
+
+}
+.lead mb-0 a {
+  color:blue;
+  font-weight: bolder;
+
 }
 
 h2 {
@@ -141,6 +148,7 @@ background-color: cadetblue;
 .card3 {
   background-color:yellow;
   color:rgb(17, 0, 255);
+  
 }
 
 .btn btn-primary {
@@ -220,6 +228,11 @@ body {
   background-color: white;
   color: rgb(31, 31, 168);
   
+}
+
+.col-md-4 mb-5 {
+  align-content: center;
+  justify-items: center;
 }
 
 .App {
