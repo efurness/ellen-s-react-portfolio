@@ -4,7 +4,7 @@ import React from "react";
 function Projects2(props) {
   return (
 
-    <ul className="list-group list-group-horizontal">
+    <ul className="list-group">
       {/* Here we map over each grocery item and return a new array of `li` elements that contains the grocery name */}
       {/* When using map you must provide a unique key attribute to each item. Ours is `item.id` */}
 

@@ -87,6 +87,15 @@ text-align: right;
 
 }
 
+ul {
+  font-size: medium;
+}
+
+.card-text {
+  font-size: small;
+}
+
+
 .navLink ul li a:hover {
   color: rgb(43, 14, 233);
 }

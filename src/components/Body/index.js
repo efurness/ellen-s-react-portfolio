@@ -78,20 +78,25 @@ function Body() {
     <div class="container px-4 px-lg-5" id="projects">
 
 <div class="card bg-dark text-white">
-  <img src={process.env.PUBLIC_URL + '/hawaii.png'} class="card-img" alt="..."></img>
+  <img src={process.env.PUBLIC_URL + '/hawaii.png'} class="card-img" alt="hawaii"></img>
   <div class="card-img-overlay">
-    <h5 class="card-title">Resume-LinkedIn</h5>
-    <p class="card-text"><center><h5>SKILLS</h5>
+  <h5 class="card-title">SKILLS</h5>
+
+    <h5 class="card-title"><a href="Furness_Resume_2022.pdf" target="blank">Resume -</a>
+    <a href="https://www.linkedin.com/in/e-d-8b9415241/">-Linked-In</a></h5>
+
+    <p class="card-text">
                         <ul>
-                            <li>FULL STACK Web Development Coding Bootcamp - DU</li>
-                            <li> Innovative and deadline-driven in GIS and Web Development</li>
+                        <center>
+                            <li>FULL STACK Web Development Coding Bootcamp - DU - </li>
+                            <br />
+                            <li>Innovative and deadline-driven in GIS and Web Development</li>
                             <br />
                             <li>REACT, HTML, JavaScript, CSS, Web-Server and 3rd-Party API’s</li>
+                            
                             <li> VS Code, NPM, NODE, OOP, SQL, Express, Mongo/Mongoose, MVC</li>
-
-                        </ul></center></p>
-                        <center><bold><p class="lead mb-0"><a href="Furness_Resume_2022.pdf" target="blank"><bold>Resume</bold></a></p></bold></center>
-                        <center><p class="lead mb-0"><a href="https://www.linkedin.com/in/e-d-8b9415241/"><bold>Linked-In</bold></a></p></center>
+                            </center>
+                        </ul></p>
 
   </div>
 </div>
