@@ -26,7 +26,6 @@ function Footer() {
                     <h6>&copy; Monty-Asp 2022</h6>                         
                     
 
-
                 </div>
             </div>
     </div>

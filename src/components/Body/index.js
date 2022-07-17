@@ -80,10 +80,7 @@ function Body() {
 <div class="card bg-dark text-white">
   <img src={process.env.PUBLIC_URL + '/hawaii.png'} class="card-img" alt="hawaii"></img>
   <div class="card-img-overlay">
-  <h5 class="card-title">SKILLS</h5>
 
-    <h5 class="card-title"><a href="Furness_Resume_2022.pdf" target="blank">Resume -</a>
-    <a href="https://www.linkedin.com/in/e-d-8b9415241/">-Linked-In</a></h5>
 
     <p class="card-text">
                         <ul>
@@ -97,6 +94,9 @@ function Body() {
                             <li> VS Code, NPM, NODE, OOP, SQL, Express, Mongo/Mongoose, MVC</li>
                             </center>
                         </ul></p>
+                        <h5 class="card-title"><a href="Furness_Resume_2022.pdf" target="blank">Resume -</a>
+    <a href="https://www.linkedin.com/in/e-d-8b9415241/">-Linked-In</a></h5>
+
 
   </div>
 </div>

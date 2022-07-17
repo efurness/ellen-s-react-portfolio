@@ -87,6 +87,10 @@ text-align: right;
 
 }
 
+.navbar {
+  background-color: fuchsia;
+}
+
 ul {
   font-size: medium;
 }
