@@ -85,12 +85,8 @@ function Body() {
     <p class="card-text">
                         <ul>
                         <center>
-                            <li>FULL STACK Web Development Coding Bootcamp - DU - </li>
-                            <br />
-                            <li>Innovative and deadline-driven in GIS and Web Development</li>
-                            <br />
+                            <li>FULL STACK Web Development Coding Bootcamp - DU - </li>                            
                             <li>REACT, HTML, JavaScript, CSS, Web-Server and 3rd-Party API’s</li>
-                            
                             <li> VS Code, NPM, NODE, OOP, SQL, Express, Mongo/Mongoose, MVC</li>
                             </center>
                         </ul></p>
