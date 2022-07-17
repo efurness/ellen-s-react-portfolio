@@ -39,6 +39,9 @@ const projects = [
     Heroku: <a href="https://pure-crag-28667.herokuapp.com/">Heroku</a>,
     image: '/note_taker.png'
   },
+];
+const projects2 = [
+
   {
     id: 4,
     name: "Challenge",
@@ -83,6 +86,8 @@ function App() {
     </div>
     <Body />,
     <Projects Projects={projects}/>,
+    <Projects Projects={projects2}/>,
+
     <Footer />,
     <Form />
     </div>

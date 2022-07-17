@@ -2,7 +2,7 @@ function Body() {
 
     return (
         <body>
-    <div class="container px-4 px-lg-5">
+    <div class="container px-4 px-lg-5" id="intro">
     
 
         <div class="row gx-4 gx-lg-5 align-items-center my-5">
@@ -78,15 +78,10 @@ function Body() {
     <div class="row gx-4 gx-lg-5">
             <div class="col-md-4 mb-5">
                 
-                <div class="card2">
-                    <div class="card-body">
-                        <h5 class="card-title">BOOTCAMP PROJECTS</h5>
-                        
-                    </div>
-                </div>
+                
             </div>
             <div class="col-md-4 mb-5">
-                <div class="card2">
+                <div class="card3">
                     <div class="card-body">
                         <h5 class="card-title">Resume-LinkedIn</h5>
                         <center><p class="lead mb-0"><a href="Furness_Resume_2022.pdf" target="blank">Resume</a></p></center>
@@ -108,13 +103,7 @@ function Body() {
         </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-5" id="contact">
-                <div class="card2">
-                    <div class="card-body">
-                        <h5 class="card-title">GITHUB Challenges</h5>
-                                 </div>
-                </div>
-                </div>
+            
                 </div>
     
     

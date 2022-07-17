@@ -138,7 +138,10 @@ background-color: cadetblue;
   background-color: rgb(10, 10, 228);
   color:fuchsia;
 }
-
+.card3 {
+  background-color:yellow;
+  color:rgb(17, 0, 255);
+}
 
 .btn btn-primary {
 background-color: chartreuse;
