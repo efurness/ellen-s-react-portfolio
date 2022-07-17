@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ellen-s-react-portfolio/static/css/main.b141da1d.css",
-    "main.js": "/ellen-s-react-portfolio/static/js/main.9dd20488.js",
+    "main.css": "/ellen-s-react-portfolio/static/css/main.5ab49265.css",
+    "main.js": "/ellen-s-react-portfolio/static/js/main.021a84a7.js",
     "static/js/787.3009649f.chunk.js": "/ellen-s-react-portfolio/static/js/787.3009649f.chunk.js",
     "index.html": "/ellen-s-react-portfolio/index.html",
-    "main.b141da1d.css.map": "/ellen-s-react-portfolio/static/css/main.b141da1d.css.map",
-    "main.9dd20488.js.map": "/ellen-s-react-portfolio/static/js/main.9dd20488.js.map",
+    "main.5ab49265.css.map": "/ellen-s-react-portfolio/static/css/main.5ab49265.css.map",
+    "main.021a84a7.js.map": "/ellen-s-react-portfolio/static/js/main.021a84a7.js.map",
     "787.3009649f.chunk.js.map": "/ellen-s-react-portfolio/static/js/787.3009649f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b141da1d.css",
-    "static/js/main.9dd20488.js"
+    "static/css/main.5ab49265.css",
+    "static/js/main.021a84a7.js"
   ]
 }
