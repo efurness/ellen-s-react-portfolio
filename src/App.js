@@ -14,37 +14,57 @@ export const ThemeContext = createContext('null')
 const projects = [
   {
     id: 1,
-    name: "project 1",
-    title: 'bike',
-    image: '/portfolio_photo.png'
+    name: "Project 1",
+    title: 'City Scapes',
+    GitHub: <a href="https://github.com/jgault87/city-scapes.git">GitHub</a>,
+    Heroku: <a href="https://jgault87.github.io/city-scapes">Heroku</a>,
+    image: '/city_scapes.png'
     
   },
   {
     id: 2,
-    name: "project 2",
-    image: '/portfolio_photo.png'
+    name: "Project 2",
+    title: 'Fitness with Friends',
+    GitHub: <a href="https://github.com/AuraFly/Fit_With_Friends.git">GitHub</a>,
+    Heroku: <a href="https://fitwithfriends-app.herokuapp.com/">Heroku</a>,
+    image: '/fitness_friends.png',
+    
+
   },
   {
     id: 3,
-    name: "project 3",
-    image: '/portfolio_photo.png'
+    name: "Challenge",
+    title: 'Note Taker Interface',
+    GitHub: <a href="https://github.com/efurness/note-taker-interface.git">GitHub</a>,
+    Heroku: <a href="https://pure-crag-28667.herokuapp.com/">Heroku</a>,
+    image: '/note_taker.png'
   },
   {
     id: 4,
-    name: "project 4",
-    image: 'portfolio_photo.png'
+    name: "Challenge",
+    title: 'Weather Dashboard',
+    GitHub: <a href="https://github.com/efurness/Unit-6-weather-dashboard.git">GitHub</a>,
+    Heroku: <a href="https://efurness.github.io/Unit-6-weather-dashboard/">Website</a>,
+    image: '/weather.gif'
+    
   },
   {
     id: 5,
-    name: "project 5",
-    image: '/weather.png'
+    name: "Challenge",
+    title: 'Coding Quiz',
+    GitHub: <a href="https://github.com/efurness/Unit4-Coding-Quiz.git">GitHub</a>,
+    Heroku: <a href="https://efurness.github.io/Unit4-Coding-Quiz/">Website</a>,
+    image: '/coding_quiz.png'
   },
   {
     id: 6,
-    name: "project 6",
-    image: '/portfolio_photo.png'
+    name: "Challenge",
+    title: 'Work Day Scheduler',
+    GitHub: <a href="https://github.com/efurness/Unit5-Work-Day-Scheduler.git">GitHub</a>,
+    Heroku: <a href="https://efurness.github.io/Unit5-Work-Day-Scheduler/">Website</a>,
+    image: '/work_day.png'
 
-  }
+  },
 ];
 function App() {
   const [theme, setTheme] = useState('light')

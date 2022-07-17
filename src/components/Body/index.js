@@ -2,7 +2,7 @@ function Body() {
 
     return (
         <body>
-    <div class="container px-4 px-lg-5" id="intro">
+    <div class="container px-4 px-lg-5">
     
 
         <div class="row gx-4 gx-lg-5 align-items-center my-5">
@@ -81,14 +81,7 @@ function Body() {
                 <div class="card2">
                     <div class="card-body">
                         <h5 class="card-title">BOOTCAMP PROJECTS</h5>
-                        <center><p class="lead mb-0" id="projects"><a href="https://github.com/AuraFly/Fit_With_Friends.git">Project 2 - Fitness with Friends
-                            </a></p></center>
-                            <center><p class="lead mb-0"><a href="https://fitwithfriends-app.herokuapp.com/">Project 2 - Heroku
-                                </a></p></center>
-                                <center><p class="lead mb-0"><a href="https://github.com/jgault87/city-scapes.git">Project 1 - City Scapes
-                                </a></p></center>
-                                <center><p class="lead mb-0"><a href="https://jgault87.github.io/city-scapes/">Project 1 - City Scapes landing
-                                page</a></p></center>
+                        
                     </div>
                 </div>
             </div>
@@ -119,14 +112,7 @@ function Body() {
                 <div class="card2">
                     <div class="card-body">
                         <h5 class="card-title">GITHUB Challenges</h5>
-                        <p class="lead mb-0"><a href="https://github.com/efurness/Team-Profile-Generator.git"> Team Profile Generator - GitHub</a></p>                     
-                        <p class="lead mb-0"><a href="https://github.com/efurness/note-taker-interface.git">Note Taker Interface - GitHub</a></p>
-                        <p class="lead mb-0"><a href="https://pure-crag-28667.herokuapp.com/">Note Taker - Heroku</a></p>
-                            <p class="lead mb-0"><a href="https://efurness.github.io/Unit-6-weather-dashboard/">Weather Dashboard - Deployed</a></p>
-                            <p class="lead mb-0"><a href="https://github.com/efurness/Unit-6-weather-dashboard.git">Weather Dashboard - GitHub</a></p>
-                            <p class="lead mb-0"><a href="https://efurness.github.io/Unit5-Work-Day-Scheduler/">Work Day Schedular - Deployed</a></p>
-                            <p class="lead mb-0"><a href="https://github.com/efurness/Unit5-Work-Day-Scheduler.git">Work Day Scheduler - GitHub</a></p>
-                    </div>
+                                 </div>
                 </div>
                 </div>
                 </div>
