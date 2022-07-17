@@ -75,7 +75,7 @@ function Body() {
         </div>
     </div>
 
-    <div class="container px-4 px-lg-5" id="intro">
+    <div class="container px-4 px-lg-5" id="projects">
 
 <div class="card bg-dark text-white">
   <img src={process.env.PUBLIC_URL + '/hawaii.png'} class="card-img" alt="..."></img>
