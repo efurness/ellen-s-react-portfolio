@@ -81,14 +81,14 @@ function Body() {
                 <div class="card2">
                     <div class="card-body">
                         <h5 class="card-title">BOOTCAMP PROJECTS</h5>
-                        <p class="lead mb-0" id="projects"><a href="https://github.com/AuraFly/Fit_With_Friends.git">Project 2 - Fitness with Friends
-                            </a></p>
-                            <p class="lead mb-0"><a href="https://fitwithfriends-app.herokuapp.com/">Project 2 - Heroku
-                                </a></p>
-                        <p class="lead mb-0"><a href="https://github.com/jgault87/city-scapes.git">Project 1 - City Scapes
-                                </a></p>
-                        <p class="lead mb-0"><a href="https://jgault87.github.io/city-scapes/">Project 1 - City Scapes landing
-                                page</a></p>
+                        <center><p class="lead mb-0" id="projects"><a href="https://github.com/AuraFly/Fit_With_Friends.git">Project 2 - Fitness with Friends
+                            </a></p></center>
+                            <center><p class="lead mb-0"><a href="https://fitwithfriends-app.herokuapp.com/">Project 2 - Heroku
+                                </a></p></center>
+                                <center><p class="lead mb-0"><a href="https://github.com/jgault87/city-scapes.git">Project 1 - City Scapes
+                                </a></p></center>
+                                <center><p class="lead mb-0"><a href="https://jgault87.github.io/city-scapes/">Project 1 - City Scapes landing
+                                page</a></p></center>
                     </div>
                 </div>
             </div>
@@ -96,9 +96,23 @@ function Body() {
                 <div class="card2">
                     <div class="card-body">
                         <h5 class="card-title">Resume-LinkedIn</h5>
-                        <p class="lead mb-0"><a href="Furness_Resume_2022.pdf" target="blank">Resume</a></p>
-                        <p class="lead mb-0"><a href="https://www.linkedin.com/in/e-d-8b9415241/">LinkedIn</a></p>
+                        <center><p class="lead mb-0"><a href="Furness_Resume_2022.pdf" target="blank">Resume</a></p></center>
+                        <center><p class="lead mb-0"><a href="https://www.linkedin.com/in/e-d-8b9415241/">Linked-In</a></p></center>
+
+                        <h5>SKILLS IN</h5>
+                        <ul>
+                            <li>FULL STACK Web Development Coding Bootcamp - DU</li>
+                            <li> Innovative and deadline-driven in GIS and Web Development</li>
+                            <br />
+                            <li>REACT, HTML, JavaScript, CSS, Web-Server and 3rd-Party API’s</li>
+                            <li> VS Code, NPM, NODE, OOP, SQL, Express, Mongo/Mongoose, MVC</li>
+
+                        </ul>
+                    
                     </div>
+                    <div>
+       
+        </div>
                 </div>
             </div>
             <div class="col-md-4 mb-5" id="contact">

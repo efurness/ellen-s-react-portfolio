@@ -223,6 +223,16 @@ body {
   text-align: center;
 }
 
+#light .switch {
+  background-color: white;
+  color: blue;
+}
+
+#dark .switch {
+  background-color: black;
+  color:white;
+}
+
 #light header {
   background-color: white;
 }
