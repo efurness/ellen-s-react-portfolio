@@ -79,9 +79,17 @@ const Form = () => {
             Send Message
           </button>
         </form>
+        
+        <h6>&copy; Courtesy, National Park Service &copy; Assateague Island photo</h6>
+                    <h6>&copy; Monty-Asp 2022</h6>    
+                    <br />
+        <br />
+        <br />
+        <br />
         <br />
         <br />
       </div>
+      
     </section>
   );
 };

@@ -19,6 +19,21 @@ root.render(
 });
       
 document.body.classList.add('bg-salmon');
+
+var body = document.getElementById('body');
+var checkbox = document.getElementById('checkbox');
+checkbox.addEventListener('change', themeChange);
+
+function themeChange(){
+  ["light-mode", "dark-mode"].map(cn => document.body.classList.toggle(cn));
+  if (checkbox.checked){
+    body.classList.remove('light-mode');
+    body.classList.add('dark-mode');
+  } else {
+    body.classList.add('light-mode');
+    body.classList.remove('dark-mode');
+  }
+}
       
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

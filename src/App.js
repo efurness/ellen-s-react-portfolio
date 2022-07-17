@@ -75,6 +75,7 @@ function App() {
   const toggleTheme = () => {
     setTheme((curr) => (curr === 'light' ? 'dark': 'light'));
   };
+  
   return (
     <ThemeContext.Provider value={{ theme, toggleTheme}}>
     
@@ -86,10 +87,11 @@ function App() {
     </div>
     <Body />,
     <Projects Projects={projects}/>,
-    <Projects Projects={projects2}/>,
+        <Projects Projects={projects2}/>
 
-    <Footer />,
     <Form />
+    <Footer />,
+
     </div>
     </ThemeContext.Provider>
   );

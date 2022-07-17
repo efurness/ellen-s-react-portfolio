@@ -1,7 +1,15 @@
 function Body() {
 
     return (
-        <body>
+        
+        <body id='body'>
+
+        <label class="switch">
+           <input id="checkbox" type="checkbox" ></input>
+           <span class="slider round"></span> Dark/Light Mode
+        </label>
+        
+        
     <div class="container px-4 px-lg-5" id="intro">
     
 
