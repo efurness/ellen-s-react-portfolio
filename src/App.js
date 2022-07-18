@@ -4,10 +4,17 @@ import Footer from './components/Footer';
 import Nav from './components/Nav';
 import Form from './components/Form';
 import Projects from './components/Projects';
+import Projects2 from './components/Projects2';
+
 // eslint-disable-next-line
 import { createContext, useState } from 'react';
 import ReactSwitch from 'react-switch';
-
+// import ReactDOM from "react-dom/client";
+// import { BrowserRouter as 
+//   Router,
+//   Routes,
+//   Route,
+// } from "react-router-dom";
 export const ThemeContext = createContext('null')
 // eslint-disable-next-line
 
@@ -79,19 +86,29 @@ function App() {
   return (
     <ThemeContext.Provider value={{ theme, toggleTheme}}>
     
-    <Nav />
     <div className='App' id={theme}>
+      <div className='switch2'>
+      <Nav />
+
     <div className='switch'>
       <lable> {theme === 'light' ? 'Light Mode' : 'Dark Mode'}</lable>
     <ReactSwitch onChange={toggleTheme} checked={theme === 'light'} />
     </div>
+    {/* <Router>
+    <Routes>
+      <Route path="/" element={<Body />}></Route>
+        <Route path="/projects" element={<Projects />}></Route>
+        <Route path="/projects2" element={<Projects2 />}></Route>
+          <Route path="/contact" element={<Form />} ></Route>
+    </Routes>,
+    </Router> */}
     <Body />,
     <Projects Projects={projects}/>,
-        <Projects Projects={projects2}/>
+        <Projects2 Projects={projects2}/>,
 
     <Form />
     <Footer />,
-
+    </div>
     </div>
     </ThemeContext.Provider>
   );
