@@ -4,7 +4,8 @@ import React from "react";
 function Projects2(props) {
   return (
 
-    <ul className="list-group">
+<div class="container">
+  <div class="row">
       {/* Here we map over each project item and return a new array of `li` elements that contains the project name */}
       {/* When using map you must provide a unique key attribute to each item. Ours is `item.id` */}
 
@@ -28,9 +29,10 @@ function Projects2(props) {
         
         
       ))}
-</ul>
 
+</div>
 
+</div>
        
 
     
