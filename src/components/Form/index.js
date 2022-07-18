@@ -80,7 +80,9 @@ const Form = () => {
           </button>
         </form>
         <br />
-        <h6>&copy; Courtesy, National Park Service &copy; Assateague Island photo</h6>
+        <h6>&copy; Courtesy, National Park Service &copy; Assateague Island National Seashore</h6>
+        <h6> &copy; Kalaupapa National Historical Park</h6>
+
                     <h6>&copy; Monty-Asp 2022</h6>    
 
                     
@@ -89,15 +91,15 @@ const Form = () => {
       <ul>
                         
                         <li class="list-inline-item"><a href="Furness_Resume_2022.pdf" target="blank"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/resume.png'}
-                    alt="portfolio_photo" /></a></li>
+                    alt="resume_photo" /></a></li>
                         <li class="list-inline-item"><a href="https://stackoverflow.com/users/19552848/e-douglas?tab=profile"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/stack.png'}
-                    alt="portfolio_photo" /></a></li>
+                    alt="stack_photo" /></a></li>
                         <li class="list-inline-item"><a href="mailto:Ellen.Furness@du.edu"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/mail.png'}
-                    alt="portfolio_photo" /></a></li>
+                    alt="mail_photo" /></a></li>
                         <li class="list-inline-item" ><a href="https://www.linkedin.com/in/e-d-8b9415241/"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/link.png'}
-                    alt="portfolio_photo" /></a></li>
+                    alt="linked_photo" /></a></li>
                     <li class="list-inline-item"><a href="https://efurness.github.io/Ellen-sProfessionalPortfolio/photo.html"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/camera.png'}
-                    alt="portfolio_photo" /></a></li>
+                    alt="photos" /></a></li>
 
                         
 
