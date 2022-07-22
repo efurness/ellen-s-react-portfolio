@@ -55,7 +55,7 @@ const projects2 = [
     title: 'Weather Dashboard',
     GitHub: <a href="https://github.com/efurness/Unit-6-weather-dashboard.git">GitHub</a>,
     Heroku: <a href="https://efurness.github.io/Unit-6-weather-dashboard/">Website</a>,
-    image: '/weather.gif'
+    image: '/weather5.gif'
     
   },
   {
