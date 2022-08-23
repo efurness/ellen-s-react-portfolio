@@ -95,7 +95,7 @@ function Body() {
                            OOP, SQL, Express, Mongo/Mongoose, MVC</li>
                             </center>
                         </ul></p>
-                        <h5 class="card-title"><a href="FurnessPorfolioResume_2022A.pdf" target="blank">Resume -</a>
+                        <h5 class="card-title"><a href="Furness_Resume_2022.pdf" target="blank">Resume -</a>
     <a href="https://www.linkedin.com/in/e-d-8b9415241/">-Linked-In</a></h5>
 
 
