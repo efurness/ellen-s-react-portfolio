@@ -24,8 +24,8 @@ const projects = [
     name: "Project 1",
     title: 'City Scapes',
     GitHub: <a href="https://github.com/jgault87/city-scapes.git">GitHub</a>,
-    Heroku: <a href="https://jgault87.github.io/city-scapes">Heroku</a>,
-    image: '/city_scapes.png'
+    Website: <a href="https://jgault87.github.io/city-scapes">Heroku</a>,
+    image: '/city_scapes.png',
     
   },
   {
@@ -33,19 +33,21 @@ const projects = [
     name: "Project 2",
     title: 'Fitness with Friends',
     GitHub: <a href="https://github.com/AuraFly/Fit_With_Friends.git">GitHub</a>,
-    Heroku: <a href="https://fitwithfriends-app.herokuapp.com/">Heroku</a>,
+    Website: <a href="https://fitwithfriends-app.herokuapp.com/">Heroku</a>,
     image: '/fitness_friends.png',
     
 
   },
   {
     id: 3,
-    name: "Challenge",
-    title: 'Note Taker Interface',
-    GitHub: <a href="https://github.com/efurness/note-taker-interface.git">GitHub</a>,
-    Heroku: <a href="https://pure-crag-28667.herokuapp.com/">Heroku</a>,
-    image: '/note_taker.png'
+    name:  <a href="https://www.youtube.com/watch?v=f4sIKWb2nYM">YouTube</a>,
+    title: 'Spokes People',
+    GitHub: <a href="https://github.com/bward3/spokes-people.git">GitHub Project 3</a>,
+    image: '/Spokes_people.png',
+
+  
   },
+    
 ];
 const projects2 = [
 
@@ -55,16 +57,16 @@ const projects2 = [
     title: 'Weather Dashboard',
     GitHub: <a href="https://github.com/efurness/Unit-6-weather-dashboard.git">GitHub</a>,
     Heroku: <a href="https://efurness.github.io/Unit-6-weather-dashboard/">Website</a>,
-    image: '/weather5.gif'
+    image: '/weather5.gif',
     
   },
   {
     id: 5,
     name: "Challenge",
-    title: 'Coding Quiz',
-    GitHub: <a href="https://github.com/efurness/Unit4-Coding-Quiz.git">GitHub</a>,
-    Heroku: <a href="https://efurness.github.io/Unit4-Coding-Quiz/">Website</a>,
-    image: '/coding_quiz.png'
+    title: 'Note Taker Interface',
+    GitHub: <a href="https://github.com/efurness/note-taker-interface.git">GitHub</a>,
+    Heroku: <a href="https://pure-crag-28667.herokuapp.com/">Heroku</a>,
+    image: '/note_taker.png',
   },
   {
     id: 6,
@@ -72,7 +74,7 @@ const projects2 = [
     title: 'Work Day Scheduler',
     GitHub: <a href="https://github.com/efurness/Unit5-Work-Day-Scheduler.git">GitHub</a>,
     Heroku: <a href="https://efurness.github.io/Unit5-Work-Day-Scheduler/">Website</a>,
-    image: '/work_day.png'
+    image: '/work_day.png',
 
   },
 ];

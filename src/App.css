@@ -160,6 +160,9 @@ background-color: cadetblue;
   color:fuchsia;
 }
 
+.card-text {
+  color:white;
+}
 
 .btn btn-primary {
 background-color: chartreuse;

@@ -16,7 +16,7 @@ function Projects(props) {
         <h5 class="card-title">{item.title}</h5>
 
                         <h6 class="card-title">{item.GitHub}</h6>
-                        <h6 class="card-title">{item.Heroku}</h6>
+                        <h6 class="card-title">{item.Website}</h6>
 
         <li className="list-group-item" key={item.id}>
             
