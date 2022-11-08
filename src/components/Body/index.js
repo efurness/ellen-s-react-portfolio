@@ -45,7 +45,8 @@ function Body() {
                             I have a second Masters, in Geographical Information Systems, at the University of Denver.
                               During that time, I partnered with DU and the National Park Service.
                             My continuing education had included GIS courses at CU.  Here is one of my
-                            GIS mapping projects; beetle kill damage as in relation to the three-toed woodpecker' habitat.
+                            GIS mapping projects; beetle kill damage as in relation to the three-toed woodpecker' habitat.  Recently as of August 2022, I graduated and obtained a Web Coding Development
+                            certificate from the University of Denver Bootcamp.
                         </p>
                         <a href='https://efurness.github.io/Ellen-sProfessionalPortfolio/GIS2.pdf' class="btn btn-primary" >GIS Project</a>
           
