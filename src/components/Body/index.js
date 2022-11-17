@@ -92,7 +92,7 @@ function Body() {
                         <ul>
                         <center>
                             <li>FULL STACK Web Development Coding Bootcamp</li>                            
-                            <li>REACT, JavaScript, Server/3rd-Party API’s,
+                            <li>REACT, MERN, JavaScript, Server/3rd-Party API’s,
                            OOP, SQL, Express, Mongo/Mongoose, MVC</li>
                             </center>
                         </ul></p>

@@ -24,7 +24,7 @@ const projects = [
     name: "Project 1",
     title: 'City Scapes',
     GitHub: <a href="https://github.com/jgault87/city-scapes.git">GitHub</a>,
-    Website: <a href="https://jgault87.github.io/city-scapes">Heroku</a>,
+    Website: <a href="https://jgault87.github.io/city-scapes">Website</a>,
     image: '/city_scapes.png',
     
   },
@@ -42,7 +42,7 @@ const projects = [
     id: 3,
     name:  <a href="https://www.youtube.com/watch?v=f4sIKWb2nYM">YouTube</a>,
     title: 'Spokes People',
-    GitHub: <a href="https://github.com/bward3/spokes-people.git">GitHub Project 3</a>,
+    GitHub: <a href="https://github.com/bward3/spokes-people.git">Project 3 - Github</a>,
     image: '/Spokes_people.png',
 
   
@@ -96,6 +96,7 @@ function App() {
       <lable> {theme === 'light' ? 'Light Mode' : 'Dark Mode'}</lable>
     <ReactSwitch onChange={toggleTheme} checked={theme === 'light'} />
     </div>
+    
     {/* <Router>
     <Routes>
       <Route path="/" element={<Body />}></Route>
@@ -105,6 +106,7 @@ function App() {
     </Routes>,
     </Router> */}
     <Body />,
+    
     <Projects Projects={projects}/>,
         <Projects2 Projects={projects2}/>,
 
