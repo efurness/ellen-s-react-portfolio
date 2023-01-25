@@ -19,7 +19,6 @@ function Body() {
                 <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5> 
                 
                 <br />
-                <a class="btn btn-primary" href="https://www.linkedin.com/in/e-d-8b9415241/">Linked-In</a> 
             </div>
         </div>
         <div class="card text-white bg-secondary my-5 py-4 text-center">
@@ -96,8 +95,8 @@ function Body() {
                            OOP, SQL, Express, Mongo/Mongoose, MVC</li>
                             </center>
                         </ul></p>
-                        <h5 class="card-title"><a href="EDF_Resume_2022new.pdf" target="blank">Resume</a>
-    <a href="https://www.linkedin.com/in/e-d-8b9415241/">-Linked-In</a></h5>
+                        <h5 class="card-title"><a href="EDF_Resume_2023.pdf" target="blank">Resume</a>
+    </h5>
 
 
   </div>
