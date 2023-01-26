@@ -267,10 +267,12 @@ body {
 
 #light body {
   background-color: white;
+  color:rgb(10, 10, 228)
 }
 
 #dark body {
   background-color: black;
+  color:white
 }
 
 #light footer {
@@ -279,7 +281,24 @@ body {
 
 #dark footer {
   background-color: black;
+  color: white
 }
+
+#dark h6 {
+  color: white
+}
+
+#dark h4 {
+  color: white
+
+}
+
+#dark h3 {
+  color:fuchsia;
+
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
