@@ -10,7 +10,9 @@ body {
   
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: medium;
+
 }
+
 
 header {
   width: 100%;
@@ -102,7 +104,7 @@ ul {
 
 
 .navLink ul li a:hover {
-  color: rgb(43, 14, 233);
+  color: yellow;
 }
 
 .lead mb-0 a:hover {
@@ -119,12 +121,12 @@ ul {
 h2 {
 text-align: left;
 font-family:inherit;
-color:midnightblue
+color:rgb(25, 31, 112)
 }
 
 h3 {
 font-family: cursive;
-color: rgb(12, 63, 233);
+color: rgb(12, 233, 134);
 
 }
 h4 {
@@ -249,7 +251,7 @@ body {
 
 #light .switch2 {
   background-color: white;
-  color: blue;
+  color: rgb(2, 2, 59);
 }
 
 #dark .switch2 {
@@ -297,7 +299,6 @@ body {
   color:fuchsia;
 
 }
-
 
 .App-logo {
   height: 40vmin;
