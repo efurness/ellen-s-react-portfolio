@@ -13,7 +13,14 @@ body {
 
 }
 
+a {
+  color:rgb(12, 233, 134);
+}
 
+a:hover {
+  color:rgb(221, 255, 0);
+  text-decoration: none;
+}
 header {
   width: 100%;
   position:relative;
@@ -279,6 +286,9 @@ body {
 
 #light footer {
   background-color: white;
+}
+.nps h6 {
+  color:#055aee
 }
 
 #dark footer {
