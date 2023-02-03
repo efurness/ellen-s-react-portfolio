@@ -10,6 +10,7 @@ body {
   
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: medium;
+  color: rgb(2, 2, 59);
 
 }
 
@@ -138,7 +139,7 @@ color: rgb(12, 233, 134);
 }
 h4 {
 font-weight: bolder;
-color:rgb(44, 41, 208);
+color: rgb(2, 2, 59);
 font-family: cursive;
 
 }
@@ -155,7 +156,7 @@ font-size: smaller;
 
 h6 {
 font-family: cursive;
-color:rgb(18, 50, 232);
+color: rgb(2, 2, 59);
 font-size: medium;
 }
 container {
@@ -243,7 +244,7 @@ footer {
 body {
   
   background-color: white;
-  color: rgb(31, 31, 168);
+  color: rgb(2, 2, 59);
   
 }
 
@@ -276,7 +277,7 @@ body {
 
 #light body {
   background-color: white;
-  color:rgb(10, 10, 228)
+  color: rgb(2, 2, 59);
 }
 
 #dark body {
@@ -355,7 +356,8 @@ body {
 }
 
 .App-link {
-  color: #055aee;
+  color: rgb(2, 2, 59);
+
 }
 
 @keyframes App-logo-spin {
