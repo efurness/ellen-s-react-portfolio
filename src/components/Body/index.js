@@ -10,7 +10,7 @@ function Body() {
     
 
         <div class="row gx-4 gx-lg-5 align-items-center my-5">
-            <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/portfolio4.gif'}
+            <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/portfolio_pic2023a.jpg'}
                     alt="portfolio_photo" /></div>
             <div class="col-lg-5">
                 
