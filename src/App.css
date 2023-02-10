@@ -176,8 +176,10 @@ background-color: cadetblue;
 
 .btn btn-primary {
 background-color: chartreuse;
+border-color: ch;
 
 }
+
 .list-inline mb-2 {
 color:blueviolet;
 }
@@ -360,11 +362,7 @@ body {
 
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.zoom:hover {
+  transform: scale(1.08); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }

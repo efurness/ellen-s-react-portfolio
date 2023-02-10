@@ -11,7 +11,7 @@ function Projects(props) {
 
       {props.Projects.map(item => (
     <div class="col-md-4 mb-5">
-        <div class="card2">
+        <div class="card2 zoom">
         <div class="card-body">
         <h5 class="card-title">{item.title}</h5>
 
