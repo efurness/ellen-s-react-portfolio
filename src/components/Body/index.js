@@ -87,7 +87,7 @@ function Body() {
   <div class="card-img-overlay">
 
 
-    <p class="card-text">
+    <p class="card-text zoom">
                         <ul>
                         <center>
                             <li>FULL-STACK Web Development Coding Bootcamp</li>                            
