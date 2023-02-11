@@ -81,7 +81,7 @@ const Form = () => {
         </form>
         <br />
         <h6>&copy; Courtesy, National Park Service &copy; <a href="https://www.nps.gov/im/ncbn/asis.htm" target="blank">Assateague Island National Seashore</a></h6>
-        <h6 class="nps"> &copy; <a href="https://www.nps.gov/kala/index.htm" target="blank">Kalaupapa National Historical Park</a></h6>
+        <h6>&copy; <a href="https://www.nps.gov/kala/index.htm" target="blank">Kalaupapa National Historical Park</a></h6>
 
                     <h6>&copy; Monty-Asp 2022</h6>    < br />
 
