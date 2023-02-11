@@ -22,7 +22,6 @@ a {
 a:hover {
   color:rgb(221, 255, 0);
   text-decoration: none;
-  transform: scale(1.15); 
 }
 
 
@@ -368,6 +367,6 @@ body {
 
 
 .zoom:hover {
-  transform: scale(1.15); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(1.08); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
