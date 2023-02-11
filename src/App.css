@@ -18,9 +18,7 @@ a {
   color:rgb(12, 233, 134);
 }
 
-a:visited {
-  color:red;
-}
+
 a:hover {
   color:rgb(221, 255, 0);
   text-decoration: none;
