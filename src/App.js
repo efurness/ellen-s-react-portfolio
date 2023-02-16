@@ -2,7 +2,7 @@ import './App.css';
 import Body from './components/Body';
 import Footer from './components/Footer';
 import Nav from './components/Nav';
-import Form from './components/Form';
+// import Form from './components/Form';
 import Projects from './components/Projects';
 import Projects2 from './components/Projects2';
 
@@ -110,7 +110,7 @@ function App() {
     <Projects Projects={projects}/>,
         <Projects2 Projects={projects2}/>,
 
-    <Form />
+    {/* <Form /> */}
     <Footer />,
     </div>
     </div>
