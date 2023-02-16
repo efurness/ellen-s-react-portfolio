@@ -14,6 +14,7 @@ function Body() {
                     alt="portfolio_photo" /></div>
             <div class="col-lg-5">
                 
+                
             <h3>Ellen Furness</h3>
 
                 <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5> 

@@ -2,9 +2,9 @@ import './App.css';
 import Body from './components/Body';
 import Footer from './components/Footer';
 import Nav from './components/Nav';
-// import Form from './components/Form';
 import Projects from './components/Projects';
 import Projects2 from './components/Projects2';
+// import Form from './components/Form';
 
 // eslint-disable-next-line
 import { createContext, useState } from 'react';
@@ -106,11 +106,11 @@ function App() {
     </Routes>,
     </Router> */}
     <Body />,
-    
+
     <Projects Projects={projects}/>,
         <Projects2 Projects={projects2}/>,
+        {/* <Form />, */}
 
-    {/* <Form /> */}
     <Footer />,
     </div>
     </div>

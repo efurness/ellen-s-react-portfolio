@@ -17,7 +17,7 @@ function Nav() {
         <li> <a href="#intro">About</a></li>
 
                         <li> <a href="#projects">Projects/Resume</a></li>
-                        <li> <a href="#contact">Contact</a></li>
+                        <li> <a href="#links">Links</a></li>
 
     
                     </ul>
