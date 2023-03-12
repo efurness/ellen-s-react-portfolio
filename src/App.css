@@ -22,6 +22,7 @@ a {
 a:hover {
   color:rgb(221, 255, 0);
   text-decoration: none;
+  transform: scale(1.15); 
 }
 
 
@@ -333,6 +334,7 @@ body {
   height: 100px;
   justify-content: center;
   align-items: center;
+  
 
 }
 
