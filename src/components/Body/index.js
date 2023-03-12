@@ -96,7 +96,7 @@ function Body() {
                            OOP, SQL, Express, Mongo/Mongoose, MVC</li>
                             </center>
                         </ul></p>
-                        <h5 class="card-title"><a href="Resume_2023_lab" target="blank">Resume</a>
+                        <h5 class="card-title"><a href="Resume_2023_lab.pdf" target="blank">Resume</a>
     </h5>
 
 
