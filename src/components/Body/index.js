@@ -92,9 +92,8 @@ function Body() {
                         <ul>
                         <center>
                             <li>GIS Suite -- ArcGIS Pro, ArcMap, ArcCatalog, Spatial Analyst</li>        
-                            <li>FULL-STACK Web Development Bootcamp</li>                                                
-                            <li>REACT, MERN, JavaScript, Server/3rd-Party API’s,
-                           Express, Mongo/Mongoose, MVC</li>
+                            <li>FULL-STACK Web Development</li>                                                
+                            <li>REACT, MERN, JavaScript, Express</li>
                             </center>
                         </ul></p>
                         <h5 class="card-title zoom"><a href="Resume_2023.pdf" target="blank">Resume</a>
