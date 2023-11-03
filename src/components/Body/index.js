@@ -91,12 +91,13 @@ function Body() {
     <p class="card-text zoom">
                         <ul>
                         <center>
-                            <li>FULL-STACK Web Development Coding Bootcamp</li>                            
+                            <li>GIS Suite -- ArcGIS Pro, ArcMap, ArcCatalog, Spatial Analyst</li>        
+                            <li>FULL-STACK Web Development Bootcamp</li>                                                
                             <li>REACT, MERN, JavaScript, Server/3rd-Party API’s,
-                           OOP, SQL, Express, Mongo/Mongoose, MVC</li>
+                           Express, Mongo/Mongoose, MVC</li>
                             </center>
                         </ul></p>
-                        <h5 class="card-title zoom"><a href="Resume_2023_EDF.pdf" target="blank">Resume</a>
+                        <h5 class="card-title zoom"><a href="Resume_2023.pdf" target="blank">Resume</a>
     </h5>
 
 

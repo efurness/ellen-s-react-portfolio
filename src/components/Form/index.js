@@ -1,4 +1,3 @@
-
 import React, { useRef, useState } from 'react';
 import {validateEmail} from '../utils/helpers.js';
 import { ToastContainer, toast } from 'react-toastify';
