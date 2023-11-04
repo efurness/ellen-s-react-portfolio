@@ -12,7 +12,7 @@ function Footer() {
                     <h6>&copy; Monty-Asp 2023</h6>    < br />
 
                    
-<ul>No
+<ul>
                         
                         <li class="list-inline-item zoom"><a href="Resume_2023.pdf" target="blank"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/resume.png'}
                     alt="resume_photo" /></a></li>
