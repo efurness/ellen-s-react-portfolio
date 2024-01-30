@@ -84,7 +84,7 @@ function Body() {
     <div class="container px-4 px-lg-5" id="projects">
 
 <div class="card bg-dark text-white">
-  <img src={process.env.PUBLIC_URL + '/hawaii.png'} class="card-img" alt="hawaii"></img>
+  <img src={process.env.PUBLIC_URL + '/sand.png'} class="card-img" alt="sand"></img>
   <div class="card-img-overlay">
 
 
