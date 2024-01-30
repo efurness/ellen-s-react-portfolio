@@ -167,17 +167,17 @@ container {
   display: flex;
 }
 .card {
-background-color: cadetblue;
+background-color: rgb(52, 73, 128);
 }
 .card2 {
-  background-color: rgb(76, 102, 155);
+  background-color: rgb(52, 73, 128);
   color:fuchsia;
 }
 
 .card-text {
   color:white;
 }
-
+Colorado
 .btn btn-primary {
 background-color: chartreuse;
 border-color: ch;

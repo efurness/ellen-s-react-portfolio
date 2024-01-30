@@ -4,7 +4,7 @@ function Nav() {
         
         <div class="card bg-dark text-white">
          
-        <img src={process.env.PUBLIC_URL + '/assateague.png'} class="card-img" alt="Assateague Island" />
+        <img src={process.env.PUBLIC_URL + '/gis.png'} class="card-img" alt="blueimage" />
         <h5> WELCOME TO MY PORTFOLIO</h5>
 
         <div class="card-img-overlay">
@@ -13,7 +13,7 @@ function Nav() {
         <nav class="navbar navbar-dark fixed-top bg-dark">
 
         <div>
-        <ul>
+        <ul> 
         <li> <a href="#intro">About</a></li>
 
                         <li> <a href="#projects">Projects/Resume</a></li>
