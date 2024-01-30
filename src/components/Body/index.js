@@ -97,10 +97,8 @@ function Body() {
 
                             </center>
                         </ul></p>
-                        <h5 class="card-title zoom"><a href="RESUME2024.pdf" target="blank" class="btn btn-primary">Resume</a><br /><br />
-                                                    <p><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" class="btn btn-primary">ArcGIS Story Map</a></p>
 
-    </h5>
+
 
   </div> 
 </div>

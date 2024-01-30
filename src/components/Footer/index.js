@@ -6,12 +6,19 @@ function Footer() {
         <div id="links">
 
 <br />
+
+
         <h6>&copy; Courtesy, National Park Service &copy; <a href="https://www.nps.gov/im/ncbn/asis.htm" target="blank">Assateague Island National Seashore</a></h6>
         <h6>&copy; <a href="https://www.nps.gov/kala/index.htm" target="blank">Kalaupapa National Historical Park</a></h6>
 
                     <h6>&copy; Monty-Asp 2023</h6>    < br />
 
-                   
+                   <ul> 
+                    <h5 class="card-title zoom"><li><a href="RESUME2024.pdf" target="blank" class="btn btn-primary">Resume</a></li></h5><br />
+                   <h5 class="card-title zoom"><li><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" class="btn btn-primary">ArcGIS Story Map</a></li>
+
+    </h5>
+       </ul>
 <ul>
                         
                         <li class="list-inline-item zoom"><a href="Resume_2023.pdf" target="blank"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/resume.png'}
