@@ -15,9 +15,9 @@ function Footer() {
 
                    <ul> 
                     <h5 class="card-title zoom"><li><a href="RESUME2024.pdf" target="blank" class="btn btn-primary">Resume</a></li></h5><br />
-                   <h5 class="card-title zoom"><li><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" class="btn btn-primary">ArcGIS Story Map</a></li>
+                   
 
-    </h5>
+    
        </ul>
 <ul>
                         

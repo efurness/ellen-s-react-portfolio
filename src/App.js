@@ -106,7 +106,6 @@ function App() {
     </Routes>,
     </Router> */}
     <Body />,
-
     <Projects Projects={projects}/>,
         <Projects2 Projects={projects2}/>,
         {/* <Form />, */}
