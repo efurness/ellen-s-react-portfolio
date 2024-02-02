@@ -8,10 +8,7 @@ function Footer() {
 <br />
 
 
-        <h6>&copy; Courtesy, National Park Service &copy; <a href="https://www.nps.gov/im/ncbn/asis.htm" target="blank">Assateague Island National Seashore</a></h6>
-        <h6>&copy; <a href="https://www.nps.gov/kala/index.htm" target="blank">Kalaupapa National Historical Park</a></h6>
 
-                    <h6>&copy; Monty-Asp 2024</h6>    < br />
 
 <ul>
                         
@@ -26,7 +23,8 @@ function Footer() {
                     <li class="list-inline-item zoom"><a href="https://efurness.github.io/Ellen-sProfessionalPortfolio/photo.html"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/camera.png'}
                     alt="photos" /></a></li>
 
-                        
+<h6>&copy; Monty-Asp 2024</h6>    < br />
+
 
             </ul>
 
