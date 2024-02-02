@@ -91,7 +91,7 @@ function Body() {
     <p class="card-text zoom">
                         <ul>
                         <center>
-                            <li>GIS Suite -- ArcGIS Pro, ArcMap, ArcCatalog, Spatial Analyst</li>        
+                            <li>ArcGIS Pro, ArcGIS Online, Python</li>        
                             <li>FULL-STACK Web Development</li>                                                
                             <li>REACT, MERN, JavaScript, Express</li>
 
