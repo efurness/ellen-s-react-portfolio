@@ -14,7 +14,7 @@ function Footer() {
                     <h6>&copy; Monty-Asp 2023</h6>    < br />
 
                    <ul> 
-                    <h5 class="card-title zoom"><li><a href="RESUME2024.pdf" target="blank" class="btn btn-primary">Resume</a></li></h5><br />
+                    <h5 class="card-title zoom"><li><a href="resume2024.pdf" target="blank" class="btn btn-primary">Resume</a></li></h5><br />
                    
 
     
