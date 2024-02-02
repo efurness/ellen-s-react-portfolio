@@ -5,13 +5,17 @@ function Footer() {
     
         <div id="links">
 
-<br />
 
 
+<div>
+    <center>
+    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="60%" height="150px" frameborder="0" allowfullscreen allow="geolocation" title="arcGIS Story Map"></iframe>
+    </center>
+    </div>
 
 
 <ul>
-                        
+                        < br />
                         <li class="list-inline-item zoom"><a href="Resume2024.pdf" target="blank"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/resume.png'}
                     alt="resume_photo" /></a></li>
                         <li class="list-inline-item zoom"><a href="https://stackoverflow.com/users/19552848/e-douglas?tab=profile"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/stack.png'}
@@ -22,6 +26,9 @@ function Footer() {
                     alt="linked_photo" /></a></li>
                     <li class="list-inline-item zoom"><a href="https://efurness.github.io/Ellen-sProfessionalPortfolio/photo.html"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/camera.png'}
                     alt="photos" /></a></li>
+                    <li class="list-inline-item zoom"><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/storymap.png'}
+                    alt="photos" /></a></li>
+                    
 
 <h6>&copy; Monty-Asp 2024</h6>    < br />
 

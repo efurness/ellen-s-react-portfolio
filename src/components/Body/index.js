@@ -40,13 +40,8 @@ function Body() {
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title zoom">My education</h5>
-                        <p class="card-text">I studied Biology at Colorado College, and later, pursued Population Biology for my Masters.  Researching the Psittacine species of the
-                            South American continent, as well as developing a plan for species' conservation, were part of my studies.
-                            I have a second Masters, in Geographical Information Systems, at the University of Denver.
-                              During that time, I partnered with DU and the National Park Service.
-                            My continuing education had included GIS courses at CU.  Here is one of my
-                            GIS mapping projects; beetle kill damage as in relation to the three-toed woodpecker' habitat.  Recently as of August 2022, I graduated and obtained a Web Coding Development
-                            certificate from the University of Denver Bootcamp.
+                        <p class="card-text">My education includes a Masters in Geographical Information Systems, at the University of Denver and Population Biology at the University of Colorado.
+                            GIS mapping projects. A Full-Stack JavaScript web development certificate.
                         </p>
                         <a href='https://efurness.github.io/Ellen-sProfessionalPortfolio/GIS2.pdf' class="btn btn-primary" >GIS Project</a>
           
@@ -59,7 +54,7 @@ function Body() {
                 <img src={process.env.PUBLIC_URL + '/peaks.png'} class="card-img-top" alt="Indian peaks" />
                     <div class="card-body">
                         <h5 class="card-title zoom">Colorado</h5>
-                        <p class="card-text">I love hiking with my English Retriever dog, where you will find in the link below. I also love cycling, snowshoeing, and skiing.</p>
+                        <p class="card-text">I love hiking with my English Retriever dog and enjoy cycling, snowshoeing, and skiing.</p>
                         <a href="https://www.cblandtrust.org/" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
@@ -68,10 +63,10 @@ function Body() {
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title zoom">Profession</h5>
-                        <p class="card-text">Leading to the work at the U.S. Forest Service,
-                    I assisted with Burned Area Emergency Rehabiliation.  I also conducted GIS mapping work, using ArcInfo and ortho-imagery, to delineate forest areas. For the National Park Service, I worked for the Air Resources Division: 
-                        conducting research, updating maps, and maintaining websites.  Designing the Colorado College Geograpy and Antarctica websites were also part of my employment. 
-                         Sample work included research of air pollution effects on National Parks. </p>
+                        <p class="card-text">Work includes U.S. Forest Service
+                Burned Area Emergency Rehabiliation, GIS associate mapping Turkey Creek watershed with ArcGIS ArcInfo and ArcEdit,                                
+                and a work partnership with the National Park Service Air Resources Division.
+ </p>
                          <br />
                         <br />
                         <a href="https://www.nps.gov/orgs/1971/index.htm" class="btn btn-primary">NPS Air websites</a>
@@ -103,11 +98,7 @@ function Body() {
   </div> 
 </div>
 < br />
-<div>
-    <center>
-    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="100%" height="150px" frameborder="0" allowfullscreen allow="geolocation" title="arcGIS Story Map"></iframe>
-    </center>
-    </div>
+
        <br />
        <br />
                <center> <h4>Projects and Challenges</h4></center>
