@@ -105,7 +105,7 @@ function Body() {
 < br />
 <div>
     <center>
-<iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="100%" height="150px" frameborder="0" allowfullscreen allow="geolocation" title="arcGIS Story Map"></iframe>
+    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="100%" height="150px" frameborder="0" allowfullscreen allow="geolocation" title="arcGIS Story Map"></iframe>
     </center>
     </div>
        <br />
