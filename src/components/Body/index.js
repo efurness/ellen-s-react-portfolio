@@ -93,15 +93,14 @@ function Body() {
                             </center>
                         </ul></p>
 
-
-
+                    
   </div> 
 </div>
 < br />
 
        <br />
        <br />
-               <center> <h4>Projects and Challenges</h4></center>
+               <center> <h4>REACT and Web Projects</h4></center>
 
             </div>
             

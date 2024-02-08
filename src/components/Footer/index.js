@@ -3,16 +3,30 @@ import './footer.css';
 function Footer() {
     return (
     
-        <div id="links">
-
+        <div id="GIS Projects">
 
 
 <div>
+    <h4>GIS Projects</h4>
+    <br />
     <center>
+    <h5><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2">ArcGIS Story Map</a></h5>
+
+
     <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="60%" height="150px" frameborder="0" allowfullscreen allow="geolocation" title="arcGIS Story Map"></iframe>
     </center>
-    </div>
+< br />
 
+<center>
+    <h5><a href="https://experience.arcgis.com/experience/94d871b4838548d9a8bc44f44addd801">ArcGIS Experience Builder</a></h5>
+
+
+    <iframe src="https://experience.arcgis.com/experience/94d871b4838548d9a8bc44f44addd801" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
+    </center>
+
+    </div>
+<br />
+    <div id="links">
 
 <ul>
                         < br />
@@ -46,6 +60,7 @@ function Footer() {
                     
                     
                     </nav>
+                    </div>
                     </div>
                     
                                   
