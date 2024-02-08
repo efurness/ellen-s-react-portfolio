@@ -23,7 +23,7 @@ function Footer() {
 
     <iframe src="https://experience.arcgis.com/experience/94d871b4838548d9a8bc44f44addd801" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
-
+<h6>courtesy - WEBGIS 5th edition exercise, Pinde Fu</h6>
     </div>
 <br />
     <div id="links">
