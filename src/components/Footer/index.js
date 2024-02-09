@@ -10,11 +10,19 @@ function Footer() {
     <h4>GIS Projects</h4>
     <br />
     <center>
+    <h5><a href="https://cuco.maps.arcgis.com/home/webmap/viewer.html?webmap=8c4cd715616b43b38a2dbf87fab2eeb8">ArcGIS Thermal Map</a></h5>
+
+
+    <iframe src="https://arcg.is/159z0X0" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
+    </center>
+
+    <center>
     <h5><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2">ArcGIS Story Map</a></h5>
 
 
-    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="60%" height="150px" frameborder="0" allowfullscreen allow="geolocation" title="arcGIS Story Map"></iframe>
+    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
+
 < br />
 
 <center>
@@ -23,7 +31,7 @@ function Footer() {
 
     <iframe src="https://experience.arcgis.com/experience/94d871b4838548d9a8bc44f44addd801" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
-<h6>courtesy - WEBGIS 5th edition exercise, Pinde Fu</h6>
+<h6>courtesy WEBGIS 5th edition exercise, Pinde Fu</h6>
     </div>
 <br />
     <div id="links">
