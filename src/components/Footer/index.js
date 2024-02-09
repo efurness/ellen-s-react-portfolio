@@ -18,7 +18,7 @@ function Footer() {
     <br />
 
     <center>
-    <h5><a href="https://arcg.is/159z0X0">Fire by Forest Type, United States</a></h5>
+    <h5><a href="https://arcg.is/bauPi0">Fire by Forest Type, United States</a></h5>
 
 
     <iframe src="https://arcg.is/bauPi0" width="60%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
