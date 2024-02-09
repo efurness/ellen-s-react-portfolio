@@ -10,11 +10,22 @@ function Footer() {
     <h4>GIS Projects</h4>
     <br />
     <center>
-    <h5><a href="https://cuco.maps.arcgis.com/home/webmap/viewer.html?webmap=8c4cd715616b43b38a2dbf87fab2eeb8">ArcGIS Thermal Map</a></h5>
+    <h5><a href="https://arcg.is/159z0X0">Satellite (VIIRS) Thermal Hotspots and Fire Activity</a></h5>
 
 
     <iframe src="https://arcg.is/159z0X0" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
+    <br />
+
+    <center>
+    <h5><a href="https://arcg.is/159z0X0">Fire by Forest Type, United States</a></h5>
+
+
+    <iframe src="https://arcg.is/bauPi0" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
+    </center>
+
+    <br />
+
 
     <center>
     <h5><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2">ArcGIS Story Map</a></h5>
