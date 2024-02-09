@@ -13,7 +13,7 @@ function Footer() {
     <h5><a href="https://arcg.is/159z0X0">Satellite (VIIRS) Thermal Hotspots and Fire Activity</a></h5>
 
 
-    <iframe src="https://arcg.is/159z0X0" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
+    <iframe src="https://arcg.is/159z0X0" width="60%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
     <br />
 
@@ -21,7 +21,7 @@ function Footer() {
     <h5><a href="https://arcg.is/159z0X0">Fire by Forest Type, United States</a></h5>
 
 
-    <iframe src="https://arcg.is/bauPi0" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
+    <iframe src="https://arcg.is/bauPi0" width="60%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
 
     <br />
@@ -31,7 +31,7 @@ function Footer() {
     <h5><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2">ArcGIS Story Map</a></h5>
 
 
-    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
+    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="60%" height="200px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
 
 < br />
@@ -40,7 +40,7 @@ function Footer() {
     <h5><a href="https://experience.arcgis.com/experience/94d871b4838548d9a8bc44f44addd801">ArcGIS Experience Builder</a></h5>
 
 
-    <iframe src="https://experience.arcgis.com/experience/94d871b4838548d9a8bc44f44addd801" width="80%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
+    <iframe src="https://experience.arcgis.com/experience/94d871b4838548d9a8bc44f44addd801" width="60%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
     </center>
 <h6>courtesy WEBGIS 5th edition exercise, Pinde Fu</h6>
     </div>
