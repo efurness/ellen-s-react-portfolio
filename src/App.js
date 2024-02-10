@@ -3,7 +3,6 @@ import Body from './components/Body';
 import Footer from './components/Footer';
 import Nav from './components/Nav';
 import Projects from './components/Projects';
-import Projects2 from './components/Projects2';
 // import Form from './components/Form';
 
 // eslint-disable-next-line
@@ -19,17 +18,9 @@ export const ThemeContext = createContext('null')
 // eslint-disable-next-line
 
 const projects = [
+  
   {
     id: 1,
-    name: "Project 1",
-    title: 'City Scapes',
-    GitHub: <a href="https://github.com/jgault87/city-scapes.git">GitHub</a>,
-    Website: <a href="https://jgault87.github.io/city-scapes">Website</a>,
-    image: '/city_scapes.png',
-    
-  },
-  {
-    id: 2,
     name: "Project 2",
     title: 'Fitness with Friends',
     GitHub: <a href="https://github.com/AuraFly/Fit_With_Friends.git">GitHub</a>,
@@ -39,7 +30,7 @@ const projects = [
 
   },
   {
-    id: 3,
+    id: 2,
     name:  <a href="https://www.youtube.com/watch?v=f4sIKWb2nYM">YouTube</a>,
     title: 'Spokes People',
     GitHub: <a href="https://github.com/bward3/spokes-people.git">Project 3 - Github</a>,
@@ -47,35 +38,15 @@ const projects = [
 
   
   },
-    
-];
-const projects2 = [
 
   {
-    id: 4,
+    id: 3,
     name: "Challenge",
     title: 'Weather Dashboard',
     GitHub: <a href="https://github.com/efurness/Unit-6-weather-dashboard.git">GitHub</a>,
     Heroku: <a href="https://efurness.github.io/Unit-6-weather-dashboard/">Website</a>,
     image: '/weather5.gif',
     
-  },
-  {
-    id: 5,
-    name: "Challenge",
-    title: 'Note Taker Interface',
-    GitHub: <a href="https://github.com/efurness/note-taker-interface.git">GitHub</a>,
-    Heroku: <a href="https://pure-crag-28667.herokuapp.com/">Heroku</a>,
-    image: '/note_taker.png',
-  },
-  {
-    id: 6,
-    name: "Challenge",
-    title: 'Work Day Scheduler',
-    GitHub: <a href="https://github.com/efurness/Unit5-Work-Day-Scheduler.git">GitHub</a>,
-    Heroku: <a href="https://efurness.github.io/Unit5-Work-Day-Scheduler/">Website</a>,
-    image: '/work_day.png',
-
   },
 ];
 function App() {
@@ -107,7 +78,6 @@ function App() {
     </Router> */}
     <Body />,
     <Projects Projects={projects}/>,
-        <Projects2 Projects={projects2}/>,
         {/* <Form />, */}
 
     <Footer />,
