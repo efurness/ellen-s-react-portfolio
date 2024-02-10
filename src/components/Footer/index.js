@@ -70,7 +70,7 @@ function Footer() {
   <span class="visually-hidden">Loading...</span>
 </div>
     <h3 class="card-title">Cynthia K. Godoy, NCIDQ_Principal</h3>
-    <p class="card-text">  I am delighted to wholeheartedly recommend my my friend from Web Development bootcamp for her pursuit of a career in GIS.  Her persistance
+    <p class="card-text">  I am delighted to wholeheartedly recommend my friend from Web Development bootcamp for her pursuit of a career in GIS.  Her persistance
                   is truly commendable as she consistently strives for excellence in every endeavor.
                   What sets her apart is an unsatiable desire to keep learning, a trait that extends
                   beyond the norm.  Since our school days concluded she digs deeper into the world of programming,
