@@ -17,7 +17,8 @@ function Body() {
                 
             <h3>Ellen Furness</h3>
 
-                <h5>Web development, Conservation, GIS, Population Biology, Biological Research</h5> 
+                <h5>Pursuing a GIS Specialist position: 
+                    < br/>Experience in JavaScript Web development, GIS and Biological research</h5> 
                 
                 <br />
             </div>
