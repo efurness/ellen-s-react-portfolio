@@ -31,10 +31,10 @@ const projects = [
   },
   {
     id: 2,
-    name:  <a href="https://www.youtube.com/watch?v=f4sIKWb2nYM">YouTube</a>,
+    name:  <a href="https://efurness.github.io/spokes-people/">Website</a>,
     title: 'Spokes People',
-    GitHub: <a href="https://github.com/bward3/spokes-people.git">Project 3 - Github</a>,
-    image: '/Spokes_people.png',
+    GitHub: <a href="https://github.com/efurness/spokes-people.git">Project 3 - Github</a>,
+    image: '/spokes.png',
 
   
   },
