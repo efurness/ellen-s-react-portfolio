@@ -10,17 +10,11 @@ function Body() {
     
 
         <div class="row gx-4 gx-lg-5 align-items-center my-5">
-            <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/portfolioNew.png'}
-                    alt="portfolio_photo" /></div>
+            {/* <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/portfolioNew.png'}
+                    alt="portfolio_photo" /></div> */}
             <div class="col-lg-5">
                 
                 
-            <h3>Ellen Furness</h3>
-
-                <h5>Pursuing a GIS Specialist position: 
-                    < br/>Experience in JavaScript Web development, GIS, Biological research</h5> 
-                
-                <br />
             </div>
         </div>
         <div class="card text-white bg-secondary my-5 py-4 text-center">
@@ -97,10 +91,8 @@ function Body() {
                     
   </div> 
 </div>
-< br />
-
-       <br />
-       <br />
+<br />
+<br />
                <center> <h4>REACT and Web Projects</h4></center>
 
             </div>

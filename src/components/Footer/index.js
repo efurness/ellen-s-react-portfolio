@@ -6,10 +6,14 @@ function Footer() {
         <div id="GIS Projects">
 
 
-<div>
+    {/* <iframe src="https://efurness.github.io/spokes-people/" width="60%" height="400px" frameborder="0" allowfullscreen allow="geolocation" title="Spokes Boulder App"></iframe> */}
+    <div>
+    <br />
     <h4>GIS Projects</h4>
     <br />
+
     <center>
+
     <h5><a href="https://arcg.is/159z0X0">Satellite (VIIRS) Thermal Hotspots and Fire Activity</a></h5>
 
 
