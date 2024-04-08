@@ -15,6 +15,7 @@ function Nav() {
 
         <div>
         <ul> 
+            
         <li> <a href="#intro">About</a></li>
 
                         <li> <a href="#projects">Web Projects</a></li>
