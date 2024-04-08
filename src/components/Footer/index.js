@@ -24,12 +24,8 @@ function Footer() {
 
 
 
-    <center>
-    <h5><a href="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2">ArcGIS Story Map</a></h5>
 
 
-    <iframe src="https://storymaps.arcgis.com/stories/32404e9d37564136bb64c1cfc354d9a2" width="60%" height="200px" frameborder="0" allowfullscreen allow="geolocation" title="Experience Builder"></iframe>
-    </center>
 
 < br />
 
