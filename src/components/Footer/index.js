@@ -41,6 +41,31 @@ function Footer() {
     </center>
 <h6>courtesy WEBGIS 5th edition exercise, Pinde Fu</h6>
     </div>
+
+    <div class="row gx-4 gx-lg-5 align-items-center my-5">
+            {/* <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/portfolioNew.png'}
+                    alt="portfolio_photo" /></div> */}
+            <div class="col-lg-5">
+                
+                
+            </div>
+        </div>
+        <div class="container-sm">    
+
+        <div class="card text-white bg-secondary my-5 py-4 text-center">
+            <div class="card-body">
+                <p class="text-white m-0">
+                <p class="lead mb-0">The non-profit Conservation Treaty Support Fund, 
+                    <a href="https://www.prweb.com/releases/2007/02/prweb502845.htm">  CTFS</a> supported the <a href="https://cites.org/eng">Convention
+                    of the International Trade in Endangered Species of Wild Fauna and Flora </a> with partners
+                    <a href="https://worldwildlife.org"> World Wildlife Fund</a> and <a href="https://traffic.org"> TRAFFIC</a> in this pursuit, contributing to protecting species like
+                    elephants, rhinos and snow leopards: all vulnerable species because of poaching and illegal trade.
+                </p>
+                </p>
+            </div>
+        </div>
+        </div>
+
 <br />
     <div id="links">
 

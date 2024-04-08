@@ -1,7 +1,8 @@
 function Nav() {
     return (
 
-        
+        <div id="intro">
+
         <div class="card bg-dark text-white">
          
         <img src={process.env.PUBLIC_URL + '/gisNew.png'} class="card-img" alt="blueimage" />
@@ -28,6 +29,7 @@ function Nav() {
 
       </nav>
 
+                </div>
                 </div>
 
                 
