@@ -18,6 +18,9 @@ function Body() {
                         <p class="card-text">My education includes a Masters in Geographical Information Systems, at the University of Denver and Population Biology at the University of Colorado.
                             GIS mapping projects. A Full-Stack JavaScript web development certificate.
                         </p>
+                        <li class="list-inline-item zoom"><a href="Resume2024.pdf" target="blank"><img class="img-fluid rounded mb-4 mb-lg-0" src={process.env.PUBLIC_URL + '/resume.png'}
+                    alt="resume.png" /></a></li>
+
                         <a href='https://efurness.github.io/Ellen-sProfessionalPortfolio/GIS2.pdf' class="btn btn-primary" >GIS Project</a>
           
 
