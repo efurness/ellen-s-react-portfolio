@@ -6,7 +6,7 @@ function Nav() {
         <div class="card bg-dark text-white">
          
         <img src={process.env.PUBLIC_URL + '/gis2.png'} class="card-img" alt="blueimage" />
-        <h5> WELCOME TO MY PORTFOLIO</h5>
+        <h5> WELCOME TO MY REACT PORTFOLIO</h5>
 
         <div class="card-img-overlay">
             
@@ -15,7 +15,7 @@ function Nav() {
 
         <div>
         <ul> 
-            
+
         <li> <a href="#intro">About</a></li>
 
                         <li> <a href="#projects">Web Projects</a></li>
