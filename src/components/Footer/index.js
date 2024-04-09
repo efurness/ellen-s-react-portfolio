@@ -102,6 +102,17 @@ function Footer() {
                   invaluable asset to any GIS team.              
 </p>
     <a href="https://cynthia@ck-interiors.com" class="btn btn-primary">Cynthia can be reached</a>
+    <h3 class="card-title">Mrs. Shelley Levine, 'Cranial Sacral Therapist | Trauma Recovery Specialist | Life Coach',
+</h3>
+    <p class="card-text">  As a close friend and professional confidant, I have experienced Ellen as a very bright, 
+    productive ambitious person, who diligently works always up to a new challenge. 
+    Ellen not only learns new technologies in depth with great speed, she also raises the bar as her standards are high 
+    and never cease to reflect her superlative talent! My field as a Holistic practitioner, 
+    I meet a wide variety of people. 
+    Ellen is most impressive and would undoubtedly be a great asset for the fortunate company that hires Ellen.🌟   
+             
+</p>
+
   </div>
   <div class="card-footer text-body-secondary">
     2 days ago
