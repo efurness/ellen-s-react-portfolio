@@ -92,7 +92,7 @@ function Footer() {
   <div class="spinner-grow text-primary" role="status">
   <span class="visually-hidden">Loading...</span>
 </div>
-    <h3 class="card-title">Cynthia K. Godoy, NCIDQ_Principal</h3>
+    <h3 class="card-title">Cynthia K. Godoy, 'NCIDQ_Principal'</h3>
     <p class="card-text">  I am delighted to wholeheartedly recommend my friend from Web Development bootcamp for her pursuit of a career in GIS.  Her persistance
                   is truly commendable as she consistently strives for excellence in every endeavor.
                   What sets her apart is an unsatiable desire to keep learning, a trait that extends
@@ -102,7 +102,7 @@ function Footer() {
                   invaluable asset to any GIS team.              
 </p>
     <a href="https://cynthia@ck-interiors.com" class="btn btn-primary">Cynthia can be reached</a>
-    <h3 class="card-title">Mrs. Shelley Levine, 'Cranial Sacral Therapist | Trauma Recovery Specialist | Life Coach',
+    <h3 class="card-title">Mrs. Shelley Levine, 'Cranial Sacral Therapist | Trauma Recovery Specialist | Life Coach'
 </h3>
     <p class="card-text">  As a close friend and professional confidant, I have experienced Ellen as a very bright, 
     productive ambitious person, who diligently works always up to a new challenge. 
@@ -110,6 +110,14 @@ function Footer() {
     and never cease to reflect her superlative talent! My field as a Holistic practitioner, 
     I meet a wide variety of people. 
     Ellen is most impressive and would undoubtedly be a great asset for the fortunate company that hires Ellen.🌟   
+             
+</p>
+<h3 class="card-title">Patricia F, 'Designer'
+</h3>
+
+<p class="card-text">  Ellen is quite knowledgable about GIS and Web Development having created many apps using React Leaflet, REACT, NEXTjs, and MapView.  
+A common thread is her outstanding map development as seen in GIS StoryMap and Experience Builder.  
+To combine GIS, Biology, and Web makes her very appealing candidate for an organization 🌟
              
 </p>
 
