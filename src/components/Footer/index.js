@@ -58,12 +58,13 @@ function Footer() {
                     elephants, rhinos and snow leopards: all vulnerable species because of poaching and illegal trade.
                 </p>
                 </p>
+                <div id="links">
             </div>
         </div>
-        </div>
+        </div>   
+
 
 <br />
-    <div id="links">
 
 <ul>
                         < br />
