@@ -1,49 +1,40 @@
-
-
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-
 }
 body {
-  
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: medium;
   color: rgb(2, 2, 59);
-
 }
 
 a {
-  color:rgb(12, 233, 134);
+  color: rgb(12, 233, 134);
 }
-
 
 a:hover {
-  color:rgb(221, 255, 0);
+  color: rgb(221, 255, 0);
   text-decoration: none;
-  transform: scale(1.15); 
+  transform: scale(1.15);
 }
-
 
 header {
   width: 100%;
-  position:relative;
-
+  position: relative;
 }
 h3 span {
-text-align: right;
+  text-align: right;
 }
 
-
 .navigation {
-
   top: 0;
   left: -100%;
   width: 100%;
   width: 100vh;
   display: flex;
-  background:white;
+  background: white;
   justify-content: center;
   align-items: center;
   transition: 1s;
@@ -55,7 +46,6 @@ text-align: right;
   height: 100%;
   color: cadetblue;
   font-family: cursive;
-
 }
 .cover {
   position: absolute;
@@ -83,23 +73,19 @@ text-align: right;
   position: relative;
   list-style: none;
   font-weight: bold;
-  
-
 }
 
 .navLink ul li a {
   position: relative;
-  color:rgb(19, 235, 109);
+  color: rgb(19, 235, 109);
   font-size: 2em;
   font-weight: 400;
   text-decoration: none;
-  margin:5px 0;
+  margin: 5px 0;
   margin-left: 100p;
   display: inline-block;
   letter-spacing: 1px;
   text-transform: uppercase;
-
-
 }
 
 .navbar {
@@ -114,7 +100,6 @@ ul {
   font-size: small;
 }
 
-
 .navLink ul li a:hover {
   color: yellow;
 }
@@ -122,72 +107,64 @@ ul {
 .lead mb-0 a:hover {
   color: white;
   font-weight: bolder;
-
 }
 .lead mb-0 a {
-  color:blue;
+  color: blue;
   font-weight: bolder;
-
 }
 
 h2 {
-text-align: left;
-font-family:inherit;
-color:rgb(25, 31, 112)
+  text-align: left;
+  font-family: inherit;
+  color: rgb(25, 31, 112);
 }
 
 h3 {
-font-family: cursive;
-color: rgb(12, 233, 134);
-
+  font-family: cursive;
+  color: rgb(12, 233, 134);
 }
 h4 {
-font-weight: bolder;
-color: rgb(2, 2, 59);
-font-family: cursive;
-
+  font-weight: bolder;
+  color: rgb(2, 2, 59);
+  font-family: cursive;
 }
 
 h5 {
-text-align: center;
-padding-right: 5px;
-font-family: cursive;
+  text-align: center;
+  padding-right: 5px;
+  font-family: cursive;
 }
 .lead mb-0 {
-font-size: smaller;
+  font-size: smaller;
 }
 
-
 h6 {
-font-family: cursive;
-color: rgb(2, 2, 59);
-font-size: medium;
+  font-family: cursive;
+  color: rgb(2, 2, 59);
+  font-size: medium;
 }
 container {
   display: flex;
 }
 .card {
-background-color: rgb(52, 73, 128);
+  background-color: rgb(52, 73, 128);
 }
 .card2 {
   background-color: rgb(52, 73, 128);
-  color:fuchsia;
+  color: fuchsia;
 }
 
 .card-text {
-  color:white;
+  color: white;
 }
-Colorado
-.btn btn-primary {
-background-color: chartreuse;
-border-color: ch;
-
+Colorado .btn btn-primary {
+  background-color: chartreuse;
+  border-color: ch;
 }
 
 .list-inline mb-2 {
-color:blueviolet;
+  color: blueviolet;
 }
-
 
 .columns {
   justify-content: center;
@@ -196,31 +173,29 @@ color:blueviolet;
 }
 
 .flexbox {
-align-items: center;
-justify-items: center;
-padding-left: 100px;
+  align-items: center;
+  justify-items: center;
+  padding-left: 100px;
 }
 
 .rotate {
-
-transform: rotate(45deg);
-background-color: #8ac4ff;
+  transform: rotate(45deg);
+  background-color: #8ac4ff;
 }
 
 .zoomin {
-width: 150px;
-height: 150%;
-overflow: hidden;
-margin: auto;
+  width: 150px;
+  height: 150%;
+  overflow: hidden;
+  margin: auto;
 }
 .zoomin img {
-width: 100%;
-transition: 0.5s all ease-in-out;
-
+  width: 100%;
+  transition: 0.5s all ease-in-out;
 }
 
 .zoomin:hover img {
-transform: scale(1.5);
+  transform: scale(1.5);
 }
 
 footer {
@@ -230,7 +205,7 @@ footer {
   background: white;
   color: cadetblue;
   font-family: cursive;
-  font-size:xx-large;
+  font-size: xx-large;
   font-weight: bolder;
   justify-content: center;
 }
@@ -246,12 +221,9 @@ footer {
   width: 50px;
 }
 
-
 body {
-  
   background-color: white;
   color: rgb(2, 2, 59);
-  
 }
 
 .col-md-4 mb-5 {
@@ -270,7 +242,7 @@ body {
 
 #dark .switch2 {
   background-color: black;
-  color:white;
+  color: white;
 }
 
 #light header {
@@ -288,33 +260,31 @@ body {
 
 #dark body {
   background-color: black;
-  color:white
+  color: white;
 }
 
 #light footer {
   background-color: white;
 }
 .nps h6 {
-  color:#055aee
+  color: #055aee;
 }
 
 #dark footer {
   background-color: black;
-  color: white
+  color: white;
 }
 
 #dark h6 {
-  color: white
+  color: white;
 }
 
 #dark h4 {
-  color: white
-
+  color: white;
 }
 
 #dark h3 {
-  color:fuchsia;
-
+  color: fuchsia;
 }
 
 .App-logo {
@@ -334,8 +304,6 @@ body {
   height: 100px;
   justify-content: center;
   align-items: center;
-  
-
 }
 
 .switch label {
@@ -343,13 +311,12 @@ body {
 }
 
 #light .switch label {
-  color:rgb(10, 10, 228);
+  color: rgb(10, 10, 228);
 }
 
 #dark .switch label {
   color: white;
 }
-
 
 .App-header {
   background-color: #282c34;
@@ -364,11 +331,10 @@ body {
 
 .App-link {
   color: rgb(2, 2, 59);
-
 }
-
 
 .zoom:hover {
-  transform: scale(1.08); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transform: scale(
+    1.08
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
-

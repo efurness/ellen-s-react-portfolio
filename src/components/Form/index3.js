@@ -1,7 +1,6 @@
 // import { ToastContainer, toast } from 'react-toastify';
 // import 'react-toastify/dist/ReactToastify.css';
 
-
 // import React, { useRef } from 'react';
 // import emailjs from '@emailjs/browser';
 
@@ -39,13 +38,13 @@
 //     return (
 //         <div className="background">
 //             <img className="desk-img" src={ BackgroundImg } alt="desk"/>
-        
+
 //             <div className="top">
 //                 <h1 className="form-heading">Contact</h1>
 //                 <p className="form-info">Let's Talk</p>
 //                     <div className="form-container">
 //                         <section id="contact">
-                        
+
 //                             <form ref={form} onSubmit={sendEmail}>
 //                                 <label>Name</label><input type="text" name="user_name" />
 //                                 <label>Email</label><input type="email" name="user_email" />
