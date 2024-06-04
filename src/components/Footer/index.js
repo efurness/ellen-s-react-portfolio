@@ -131,6 +131,15 @@ function Footer() {
               />
             </a>
           </li>
+          <li class="list-inline-item zoom">
+            <a href="https://efurness.github.io/portfolio-ellen-next-js">
+              <img
+                class="img-fluid rounded mb-4 mb-lg-0"
+                src={process.env.PUBLIC_URL + "/vercel.png"}
+                alt="photos"
+              />
+            </a>
+          </li>
         </ul>
         <h6>&copy; Monty-Asp 2024</h6> <br />
         <div class="container-sm">
