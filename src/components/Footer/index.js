@@ -109,7 +109,7 @@ function Footer() {
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
                 src={process.env.PUBLIC_URL + "/link.png"}
-                alt="linked_photo"
+                alt="linkedIn"
               />
             </a>
           </li>
@@ -127,7 +127,7 @@ function Footer() {
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
                 src={process.env.PUBLIC_URL + "/storymap.png"}
-                alt="photos"
+                alt="story map"
               />
             </a>
           </li>
@@ -135,8 +135,8 @@ function Footer() {
             <a href="https://efurness.github.io/portfolio-ellen-next-js">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
-                src={process.env.PUBLIC_URL + "/vercel2.png"}
-                alt="photos"
+                src={process.env.PUBLIC_URL + "/vercel4.png"}
+                alt="next portfolio"
               />
             </a>
           </li>
