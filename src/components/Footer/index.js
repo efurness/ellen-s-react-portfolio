@@ -87,11 +87,11 @@ function Footer() {
         <ul>
           <br />
           <li class="list-inline-item zoom">
-            <a href="Resume2024.pdf" target="blank">
+            <a href="Resume2025.pdf" target="blank">
               <img
                 class="img-fluid rounded mb-4 mb-lg-0"
                 src={process.env.PUBLIC_URL + "/resume.png"}
-                alt="resume.png"
+                alt="resume"
               />
             </a>
           </li>
