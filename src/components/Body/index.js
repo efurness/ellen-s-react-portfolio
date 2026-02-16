@@ -14,7 +14,7 @@ function Body() {
                   JavaScript web development certificate.
                 </p>
                 <li class="list-inline-item zoom">
-                  <a href="Resume2025.pdf" target="blank">
+                  <a href="RESUME_2026.pdf" target="blank">
                     <img
                       class="img-fluid rounded mb-4 mb-lg-0"
                       src={process.env.PUBLIC_URL + "/resume.png"}
